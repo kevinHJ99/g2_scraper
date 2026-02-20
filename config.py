@@ -1,0 +1,15 @@
+MAX_ITERATIONS = 100
+DELAY_MIN = 10
+DELAY_MAX = 20
+TIMEOUT = 30000
+HEADLESS = False
+
+CATEGORIES = {
+    "crm": 5,
+    "ai-chatbots": 5
+}
+
+CYCLES = 10
+RANGE_DELAY = (5, 10)
+HEADLESS = False
+USE_STEALTH = False

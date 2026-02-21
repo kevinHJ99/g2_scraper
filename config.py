@@ -11,5 +11,5 @@ CATEGORIES = {
 
 CYCLES = 10
 RANGE_DELAY = (5, 10)
-HEADLESS = False
 USE_STEALTH = False
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"

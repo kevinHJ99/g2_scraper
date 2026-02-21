@@ -1,11 +1,11 @@
+from detector import Detector
 import logging
 import random
 import time
 
 
 class Navigation:
-    def __init__(self, page, config):
-        self.page = page
+    def __init__(self, config):
         self.config = config
 
     def build_targets(self):
@@ -28,17 +28,19 @@ class Navigation:
 
             s_time = time.time()
 
-            print(f"{idx} navegando en {url}")
+            print(f"{i} navegando en {url}")
 
             try:
-                await self.page.goto(url, timeout=self.config.TIMEOUT, wait_until="networkidle")
+                await page.goto(url, timeout=self.config.TIMEOUT, wait_until="networkidle")
                 await self.page.wait_for_selector("#ajax-container", timeout=12000)
 
-                if detector.is_blocked:
-                    raise Exception("Blocked detected")
+                detect_error = await Detector().is_blocked(self.page)
+
+                if detect_error:
+                    raise Exception(detect_error)
                 
                 latency = time.time() - s_time
-                metrics.record_navigation(category, latency)
+                metrics.record_ok(category, latency)
 
             except Exception as e:
                 latency = time.time() - s_time

@@ -1,0 +1,11 @@
+{
+    "t_iterations": 20,
+    "success_count": 0,
+    "error_count": 20,
+    "ok_rate": 0.0,
+    "avg_latency": 13.3,
+    "total_time": 409.66,
+    "blocked_count": {
+        "Page.wait_for_selector: Timeout 12000ms exceeded.\nCall log:\n  - waiting for locator(\"#ajax-container\") to be visible\n": 20
+    }
+}

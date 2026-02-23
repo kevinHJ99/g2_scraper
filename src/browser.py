@@ -11,36 +11,27 @@ class BrowserManager:
     async def create(self):
         try:
             # inicializa playwright
-            self.browser = await self.playwright.chromium.launch(
+            self.context = await self.playwright.chromium.launch_persistent_context(
                 headless=self.headless,
+                viewport={"width": 1280, "height": 800},
+                locale="es-CO",
+                timezone_id="America/Bogota",
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
                     "--disable-accelerated-2d-canvas",
                     "--disable-gpu",
-                    "--window-size=1280,800"
+                    "--window-size=1280,800",
                 ]
                 )
             
             # crear un nuevo contexto y página del navegador
-            context = await self.browser.new_context(viewport={"width": 1280, "height": 800},)
+            # context = await self.browser.new_context(viewport={"width": 1280, "height": 800},)
             
             # crear una nueva página en el contexto del navegador
-            page = await context.new_page()
+            page = await self.context.new_pages()[0]
 
             return page
         except Exception as e:
             logging.error(f"Error creating browser: {e}")
             await self.stop()
-
-    async def stop(self):
-        try:
-            # cerrar el navegador y detener playwright
-            if self.context:
-                await self.context.close()
-            if self.browser:
-                await self.browser.close()
-            if self.playwright:
-                await self.playwright.stop()
-        except Exception as e:
-            logging.error(f"Error stopping browser: {e}")

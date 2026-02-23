@@ -18,10 +18,29 @@ class Navigation:
 
         return targets
     
+    async def warmup(self, page):
+        await page.goto("https://www.g2.com", wait_until="domcontentloaded")
+        await page.wait_for_timeout(4000)
+
+        for _ in range(random.randint(2, 4)):
+            await page.mouse.wheel(0, random.randint(300, 800))
+            await page.wait_for_timeout(random.randint(800, 1500))
+        
+        for _ in range(random.randint(2, 4)):
+            await page.mouse.wheel(0, random.randint(200, 600))
+            await page.wait_for_timeout(random.randint(800, 1500))
+
+        for _ in range(random.randint(2, 4)):
+            await page.mouse.wheel(0, random.randint(200, 600))
+            await page.wait_for_timeout(random.randint(800, 1500))
+    
     async def run(self, page, metrics, extractor, detector, storage, retry_execute):
         targets = self.build_targets()
 
         for i, (category, num_pages) in enumerate(targets, start=1):
+            if i % 10 == 0:
+                await page.wait_for_timeout(random.randint(10000, 15000))  # pausa cada 10 iteraciones
+
             url = f"https://www.g2.com/categories/{category}?order=g2_score&page={num_pages}#product-list"
 
             s_time = time.time()
@@ -32,7 +51,7 @@ class Navigation:
             response = None
             
             try:
-                response, retries = await retry_execute.execute(page.goto, url, wait_until="networkidle")
+                response, retries = await retry_execute.execute(page.goto, url, wait_until="domcontentloaded")
                 await page.wait_for_selector("#ajax-container", timeout=12000)
 
                 x = random.randint(50, 400)

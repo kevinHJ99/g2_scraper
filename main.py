@@ -28,6 +28,7 @@ async def main():
         retry_execute = Retry(config.MAX_RETRIES, config.INITIAL_BACKOFF)
 
         # ===============// Executar Navegador //==============
+        await navigator.warmup(page)
         await navigator.run(
             page, 
             metrics, 

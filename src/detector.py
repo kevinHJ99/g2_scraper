@@ -1,4 +1,5 @@
 from enum import Enum
+from urllib import response
 
 class BlockType(Enum):
     CLOUD_FLARE = "Cloudflare"
@@ -14,7 +15,7 @@ class BlockType(Enum):
 
 class Detector:
     
-    async def is_blocked(self, page):
+    async def is_blocked(self, page, response):
         """
         Evalua multiples senales o indicadores de bloqueo.
         Retorna True si detecta Bloqueo.
@@ -31,13 +32,13 @@ class Detector:
         if await self.detect_dom_error(page):
             print("DOM error detected")
             return BlockType.DOM_ERROR
-        if await self.detect_rate_limit(page):
+        if await self.detect_rate_limit(response):
             print("Rate limit detected")
             return BlockType.RATE_LIMIT
-        if await self.bad_response(page):
+        if await self.bad_response(response):
             print("Bad response detected")
             return BlockType.BAD_RESPONSE
-        if await self.bad_request(page):
+        if await self.bad_request(response):
             print("Bad request detected")
             return BlockType.BAD_REQUEST
         if await self.detect_ip_block(page):
@@ -93,30 +94,30 @@ class Detector:
         if "blocked" in await content.inner_text().lower():
             return True
 
-    async def detect_rate_limit(self, page):
+    async def detect_rate_limit(self, response):
         """
         Detecta si la pagina esta aplicando limitacion de tasa (Rate Limiting).
         Retorna True si detecta limitacion de tasa.
         """
-        status = await page.status
+        status = response.status
         if status == 429:
             return True
         
-    async def bad_response(self, page):
+    async def bad_response(self, response):
         """
         Detecta respuestas HTTP que puedan indicar bloqueo.
         Retorna True si detecta una respuesta HTTP sospechosa.
         """
-        status = await page.status
+        status = response.status
         if status in [403, 404, 500]:
             return True
         
-    async def bad_request(self, page):
+    async def bad_request(self, response):
         """
         Detecta solicitudes HTTP que puedan indicar bloqueo.
         Retorna True si detecta una solicitud HTTP sospechosa.
         """
-        status = await page.status
+        status = response.status
         if status != 200:
             return True
 

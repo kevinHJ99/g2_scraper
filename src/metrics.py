@@ -13,7 +13,7 @@ class MetricsRecorder:
         self.blocked_count = defaultdict(int)
         self.latencies = []
 
-    def record_ok(self, category, latency):
+    def record_ok(self, category, latency, retries):
         if latency < 0:
             raise ValueError(f"Latencia negativa detectada. {latency}")
 
@@ -25,9 +25,10 @@ class MetricsRecorder:
             "status": "ok",
             "category": category,
             "latency": latency,
+            "retries": retries,
         })
 
-    def record_error(self, category, error_message, latency):
+    def record_error(self, category, error_message, latency, retries):
         if latency < 0:
             raise ValueError(f"Latencia negativa detectada. {latency}")
         
@@ -41,6 +42,7 @@ class MetricsRecorder:
             "category": category,
             "error_type": error_message,
             "latency": latency,
+            "retries": retries,
         })
 
     def summary(self):
@@ -66,12 +68,3 @@ class MetricsRecorder:
             "total_time": round(self.total_time, 2),
             "blocked_count": dict(self.blocked_count),
         }
-    
-    # def reset(self):
-    #     self.records = []
-    #     self.start_time = time.time()
-    #     self.success_count = 0
-    #     self.error_count = 0
-    #     self.total_time = 0.0
-    #     self.blocked_count = defaultdict(int)
-    #     self.latencies = []

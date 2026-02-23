@@ -1,5 +1,3 @@
-from detector import Detector
-import logging
 import random
 import time
 
@@ -20,7 +18,7 @@ class Navigation:
 
         return targets
     
-    async def run(self, page, metrics):
+    async def run(self, page, metrics, extractor, detector, storage, retry_execute):
         targets = self.build_targets()
 
         for i, (category, num_pages) in enumerate(targets, start=1):
@@ -30,22 +28,38 @@ class Navigation:
 
             print(f"{i} navegando en {url}")
 
+            retries = 0
+            response = None
+            
             try:
-                await page.goto(url, timeout=self.config.TIMEOUT, wait_until="networkidle")
-                await self.page.wait_for_selector("#ajax-container", timeout=12000)
+                response, retries = await retry_execute.execute(page.goto, url, wait_until="networkidle")
+                await page.wait_for_selector("#ajax-container", timeout=12000)
 
-                detect_error = await Detector().is_blocked(self.page)
+                x = random.randint(50, 400)
+                y = random.randint(100, 600)
 
-                if detect_error:
-                    raise Exception(detect_error)
+                await page.mouse.move(x, y)
+                await page.wait_for_timeout(random.randint(500, 1200))
+                await page.mouse.wheel(0, random.randint(300, 800))
+
+                block_type = await detector.is_blocked(page, response)
+
+                if block_type is not None:
+                    raise Exception(block_type.value)
+                
+                html = await page.content()
+
+                products = extractor.extract(html)
+                storage.add_products(products, category)
                 
                 latency = time.time() - s_time
-                metrics.record_ok(category, latency)
+
+                metrics.record_ok(category, latency, retries=retries)
 
             except Exception as e:
                 latency = time.time() - s_time
-                metrics.record_error(category, str(e), latency)
+                metrics.record_error(category, str(e), latency, retries=retries)
             
             # random delay
-            delay = random.uniform(self.config.RANGE_DELAY)
-            await self.page.wait_for_timeout(delay * 1000)
+            delay = random.uniform(*self.config.RANGE_DELAY)
+            await page.wait_for_timeout(delay * 1000)

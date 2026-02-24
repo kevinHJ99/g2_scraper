@@ -1,1 +1,1784 @@
-[]
+[
+    {
+        "name": "Salesforce Sales Cloud",
+        "ratings": 4.4,
+        "seller": " Salesforce",
+        "users": "Account Executive",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/salesforce-salesforce-sales-cloud/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "HubSpot Sales Hub",
+        "ratings": 4.4,
+        "seller": " HubSpot",
+        "users": "Account Executive",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/hubspot-sales-hub/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Pipedrive",
+        "ratings": 4.3,
+        "seller": " Pipedrive",
+        "users": "CEO",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/pipedrive/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Close",
+        "ratings": 4.7,
+        "seller": " Close",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/close/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "ActiveCampaign",
+        "ratings": 4.5,
+        "seller": " ActiveCampaign",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/activecampaign/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Zoho CRM",
+        "ratings": 4.1,
+        "seller": " Zoho",
+        "users": "Owner",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/zoho-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Bigin by Zoho CRM",
+        "ratings": 4.6,
+        "seller": " Zoho",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/bigin-by-zoho-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "HighLevel",
+        "ratings": 4.6,
+        "seller": " HighLevel",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/highlevel/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "monday CRM",
+        "ratings": 4.6,
+        "seller": " monday.com",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/monday-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "CRMOne",
+        "ratings": 4.8,
+        "seller": " CrmOne",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/crmone/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Brevo Marketing Platform",
+        "ratings": 4.5,
+        "seller": " Brevo",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/brevo-marketing-platform/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Mekari Qontak",
+        "ratings": 4.7,
+        "seller": " Mekari",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/mekari-qontak/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "LocaliQ",
+        "ratings": 4.5,
+        "seller": " USA TODAY Co.",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/localiq/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Less Annoying CRM",
+        "ratings": 4.9,
+        "seller": " Less Annoying Software",
+        "users": "Owner",
+        "industries": "Insurance",
+        "link": "https://www.g2.com/products/less-annoying-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "NetSuite",
+        "ratings": 4.1,
+        "seller": " Oracle",
+        "users": "Controller",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/netsuite/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Creatio",
+        "ratings": 4.7,
+        "seller": " Creatio",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/creatio/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "RSoft CRM",
+        "ratings": 5.0,
+        "seller": " RSoft",
+        "users": null,
+        "industries": "Real Estate",
+        "link": "https://www.g2.com/products/rsoft-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Freshsales",
+        "ratings": 4.5,
+        "seller": " Freshworks",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/freshsales/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "OnePageCRM",
+        "ratings": 4.7,
+        "seller": " OnePageCRM",
+        "users": "Founder",
+        "industries": "Non-Profit Organization Management",
+        "link": "https://www.g2.com/products/onepagecrm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "folk",
+        "ratings": 4.5,
+        "seller": " folk",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/folk-folk/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Knack",
+        "ratings": 4.3,
+        "seller": " Knack",
+        "users": null,
+        "industries": "Construction",
+        "link": "https://www.g2.com/products/knack/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Nimble CRM",
+        "ratings": 4.5,
+        "seller": " Nimble",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/nimble/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Oracle EBS CRM",
+        "ratings": 3.9,
+        "seller": " Oracle",
+        "users": null,
+        "industries": "Retail",
+        "link": "https://www.g2.com/products/oracle-ebs-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Salesmate",
+        "ratings": 4.7,
+        "seller": " Salesmate",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/salesmate/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Salesflare",
+        "ratings": 4.8,
+        "seller": " Salesflare",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/salesflare/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Zoho CRM Plus",
+        "ratings": 4.4,
+        "seller": " Zoho",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/zoho-crm-plus-2018-12-06/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Thryv",
+        "ratings": 4.3,
+        "seller": " Thryv",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/thryv/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Snov.io",
+        "ratings": 4.5,
+        "seller": " Snovio",
+        "users": "Marketing Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/snov-io/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Streak",
+        "ratings": 4.5,
+        "seller": " Streak",
+        "users": "Engineer",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/streak/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Salestarget.ai",
+        "ratings": 4.9,
+        "seller": " Salestarget LLC",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/salestarget-ai/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Constant Contact Advanced Automation",
+        "ratings": 4.4,
+        "seller": " Constant Contact",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/constant-contact-advanced-automation/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Odoo CRM",
+        "ratings": 4.1,
+        "seller": " Odoo",
+        "users": "Business Development Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/odoo-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Pipeliner CRM",
+        "ratings": 4.6,
+        "seller": " Pipelinersales Inc.",
+        "users": "President",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/pipeliner-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "AllClients",
+        "ratings": 4.6,
+        "seller": " AllClients",
+        "users": null,
+        "industries": "Financial Services",
+        "link": "https://www.g2.com/products/allclients/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Maximizer",
+        "ratings": 4.0,
+        "seller": " Maximizer Software",
+        "users": "Financial Advisor",
+        "industries": "Financial Services",
+        "link": "https://www.g2.com/products/maximizer/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Copper",
+        "ratings": 4.5,
+        "seller": " Copper",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/copper/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "OctopusPro",
+        "ratings": 5.0,
+        "seller": " OctopusPro",
+        "users": "CEO",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/octopuspro/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Efficy CRM",
+        "ratings": 4.5,
+        "seller": " Efficy",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/efficy-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Apptivo",
+        "ratings": 4.4,
+        "seller": " Apptivo",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/apptivo/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "SuperOffice CRM",
+        "ratings": 4.4,
+        "seller": " SuperOffice AS",
+        "users": null,
+        "industries": "Wholesale",
+        "link": "https://www.g2.com/products/superoffice-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Sage CRM",
+        "ratings": 3.8,
+        "seller": " Sage Software",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/sage-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Membrain",
+        "ratings": 4.6,
+        "seller": " Membrain",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/membrain/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Success.ai",
+        "ratings": 4.8,
+        "seller": " Success AI",
+        "users": "Virtual Assistant",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/success-ai/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Pipeline CRM",
+        "ratings": 4.4,
+        "seller": " Pipeline CRM",
+        "users": "Account Manager",
+        "industries": "Construction",
+        "link": "https://www.g2.com/products/pipeline-crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Bixjet",
+        "ratings": 4.8,
+        "seller": " Bixjet",
+        "users": "Founder",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/bixjet/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Ohanafy",
+        "ratings": 5.0,
+        "seller": " Ohanafy",
+        "users": null,
+        "industries": "Food & Beverages",
+        "link": "https://www.g2.com/products/ohanafy/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Oracle Siebel",
+        "ratings": 3.5,
+        "seller": " Oracle",
+        "users": "Consultant",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/oracle-siebel/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "C2CRM",
+        "ratings": 4.6,
+        "seller": " Clear C2, Inc.",
+        "users": null,
+        "industries": "Telecommunications",
+        "link": "https://www.g2.com/products/c2crm/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Attio",
+        "ratings": 4.5,
+        "seller": " Attio",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/attio/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "Striven",
+        "ratings": 4.5,
+        "seller": " Miles IT",
+        "users": null,
+        "industries": "Accounting",
+        "link": "https://www.g2.com/products/striven-2024-03-26/reviews",
+        "category": "crm"
+    },
+    {
+        "name": "ChatGPT",
+        "ratings": 4.7,
+        "seller": " OpenAI",
+        "users": "Student",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/chatgpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Notion",
+        "ratings": 4.6,
+        "seller": " Notion",
+        "users": "Software Engineer",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/notion/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Gemini",
+        "ratings": 4.4,
+        "seller": " Google",
+        "users": "Software Engineer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/google-gemini/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Perplexity",
+        "ratings": 4.5,
+        "seller": " Perplexity AI",
+        "users": "Founder",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/perplexity/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Podium",
+        "ratings": 4.6,
+        "seller": " Podium",
+        "users": "Owner",
+        "industries": "Automotive",
+        "link": "https://www.g2.com/products/podium/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "1min.AI",
+        "ratings": 4.6,
+        "seller": " 1min.AI",
+        "users": "CEO",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/1min-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "indigitall",
+        "ratings": 4.8,
+        "seller": " indigitall",
+        "users": "Periodista",
+        "industries": "Telecommunications",
+        "link": "https://www.g2.com/products/indigitall/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Tidio",
+        "ratings": 4.6,
+        "seller": " Tidio",
+        "users": "Owner",
+        "industries": "Retail",
+        "link": "https://www.g2.com/products/tidio/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Google Cloud Dialogflow",
+        "ratings": 4.4,
+        "seller": " Google",
+        "users": "Software Engineer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/google-cloud-dialogflow/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Apollo.io",
+        "ratings": 4.7,
+        "seller": " Apollo.io",
+        "users": "Account Executive",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/apollo-io/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Decagon",
+        "ratings": 4.9,
+        "seller": " Decagon",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/decagon/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "TESS AI",
+        "ratings": 4.7,
+        "seller": " Pareto Group",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/tess-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Dashworks",
+        "ratings": 4.5,
+        "seller": " HubSpot",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/dashworks/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Simplified",
+        "ratings": 4.6,
+        "seller": " Simplified",
+        "users": "Founder",
+        "industries": "Writing and Editing",
+        "link": "https://www.g2.com/products/simplified/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Voiceflow",
+        "ratings": 4.6,
+        "seller": " Voiceflow",
+        "users": "Founder",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/voiceflow/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Sobot Omnichannel Suite",
+        "ratings": 4.9,
+        "seller": " Sobot",
+        "users": "CEO",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/sobot-omnichannel-suite/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "DigitalOcean",
+        "ratings": 4.6,
+        "seller": " DigitalOcean",
+        "users": "Software Engineer",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/digitalocean/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Alhena AI",
+        "ratings": 4.9,
+        "seller": " Alhena AI",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/alhena-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Zoom Virtual Agent",
+        "ratings": 4.5,
+        "seller": " Zoom",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/zoom-virtual-agent/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Assembled AI",
+        "ratings": 4.8,
+        "seller": " Assembled",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/assembled-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "scite.ai",
+        "ratings": 4.7,
+        "seller": " scite.ai",
+        "users": null,
+        "industries": "Research",
+        "link": "https://www.g2.com/products/scite-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Octocom AI Customer Experience Suite",
+        "ratings": 5.0,
+        "seller": " Octocom",
+        "users": null,
+        "industries": "Retail",
+        "link": "https://www.g2.com/products/octocom-ai-customer-experience-suite/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Boost.ai",
+        "ratings": 4.7,
+        "seller": " Boost.ai",
+        "users": null,
+        "industries": "Telecommunications",
+        "link": "https://www.g2.com/products/boost-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Joule",
+        "ratings": 4.4,
+        "seller": " SAP",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/joule/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Landbot",
+        "ratings": 4.7,
+        "seller": " Landbot.io",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/landbot/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "marketbetter",
+        "ratings": 4.9,
+        "seller": " marketbetter.ai",
+        "users": null,
+        "industries": "Telecommunications",
+        "link": "https://www.g2.com/products/marketbetter/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Juma",
+        "ratings": 4.8,
+        "seller": " Juma",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/juma/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Unleash",
+        "ratings": 5.0,
+        "seller": " Zendesk",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/zendesk-unleash/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Ada",
+        "ratings": 4.6,
+        "seller": " ADA SUPPORT, INC.",
+        "users": null,
+        "industries": "Financial Services",
+        "link": "https://www.g2.com/products/ada-support-inc-ada/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Kapture CX",
+        "ratings": 4.5,
+        "seller": " Kapture CX",
+        "users": "Team Leader",
+        "industries": "Consumer Services",
+        "link": "https://www.g2.com/products/kapture-cx/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "WotNot",
+        "ratings": 4.6,
+        "seller": " WotNot",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/wotnot/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "G2 Profile and Reviews",
+        "ratings": 4.7,
+        "seller": " G2",
+        "users": "Software Engineer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/g2/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "DocketAI",
+        "ratings": 4.8,
+        "seller": " Docket",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/docketai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Younet",
+        "ratings": 4.9,
+        "seller": " Younet",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/younet/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "WorkHub WorkBot",
+        "ratings": 4.9,
+        "seller": " WorkHub",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/workhub-workbot/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "StackAI",
+        "ratings": 4.5,
+        "seller": " StackAI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/stackai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "AI4Chat",
+        "ratings": 4.7,
+        "seller": " AI4Chat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/ai4chat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Zaapi",
+        "ratings": 4.6,
+        "seller": " Zaapi",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/zaapi/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "You.com",
+        "ratings": 4.4,
+        "seller": " You",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/you-com/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "TypingMind",
+        "ratings": 4.3,
+        "seller": " TypingMind",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/typingmind-typingmind/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Molin AI",
+        "ratings": 4.6,
+        "seller": " Molin AI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/molin-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "ChatSpark",
+        "ratings": 4.6,
+        "seller": " ChatSpark",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/chatspark/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "DapperGPT",
+        "ratings": 4.3,
+        "seller": " DapperGPT",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/dappergpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "AnonChatGPT",
+        "ratings": 4.0,
+        "seller": " AnonChatGPT",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/anonchatgpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "BraveGPT",
+        "ratings": 4.3,
+        "seller": " KudoAI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/bravegpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "CoSupport AI",
+        "ratings": 4.9,
+        "seller": " CoSupport AI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/cosupport-ai-2025-07-17/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Maven AGI",
+        "ratings": 4.7,
+        "seller": " Maven AGI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/maven-agi/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "ChatFast",
+        "ratings": 4.4,
+        "seller": " ChatFast",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/chatfast/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "DeftGPT",
+        "ratings": 4.0,
+        "seller": " DeftGPT",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/deftgpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "HelpCrunch",
+        "ratings": 4.7,
+        "seller": " HelpCrunch",
+        "users": "CEO",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/helpcrunch/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Twig AI",
+        "ratings": 4.9,
+        "seller": " Twig.so",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/twig-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "AgentGPT",
+        "ratings": 3.8,
+        "seller": " AgentGPT",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/agentgpt/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "ChatBot",
+        "ratings": 4.5,
+        "seller": " Text",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/chatbot/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Dante AI",
+        "ratings": 5.0,
+        "seller": " Dante AI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/dante-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Denser Search and Chat",
+        "ratings": 4.8,
+        "seller": " Denser",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/denser-search-and-chat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Discord",
+        "ratings": 4.8,
+        "seller": " TextAiFy",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/textaify-discord/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Langdock",
+        "ratings": 5.0,
+        "seller": " Langdock",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/langdock/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Mavenoid",
+        "ratings": 4.8,
+        "seller": " Mavenoid",
+        "users": null,
+        "industries": "Consumer Electronics",
+        "link": "https://www.g2.com/products/mavenoid/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Customerly",
+        "ratings": 4.4,
+        "seller": " Customerly",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/customerly/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "deepseek r1",
+        "ratings": 4.2,
+        "seller": " deepseek r1",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/deepseek-r1/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Whippy",
+        "ratings": 4.9,
+        "seller": " Whippy",
+        "users": null,
+        "industries": "Staffing and Recruiting",
+        "link": "https://www.g2.com/products/whippy/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "AiryChat AI Assistants",
+        "ratings": 5.0,
+        "seller": " AiryChat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/airychat-ai-assistants/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "BotSailor",
+        "ratings": 4.6,
+        "seller": " BotSailor",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/botsailor/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "ChatBeacon AI",
+        "ratings": 4.6,
+        "seller": " SmartMax Software",
+        "users": null,
+        "industries": "Consumer Services",
+        "link": "https://www.g2.com/products/chatbeacon-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "CX Genie",
+        "ratings": 4.3,
+        "seller": " CX Genie",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/cx-genie/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "EtherAssist",
+        "ratings": 5.0,
+        "seller": " EfficientEther",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/etherassist/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Fini",
+        "ratings": 5.0,
+        "seller": " Fini",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/fini/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "lobstr",
+        "ratings": 4.5,
+        "seller": " lobstr",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/lobstr/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "MaxContact",
+        "ratings": 4.6,
+        "seller": " MaxContact",
+        "users": null,
+        "industries": "Financial Services",
+        "link": "https://www.g2.com/products/maxcontact/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Navu",
+        "ratings": 4.8,
+        "seller": " Navu",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/navu/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Comm100",
+        "ratings": 4.3,
+        "seller": " Comm100 Network Corporation",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/comm100-network-corporation-comm100/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "EBI.AI",
+        "ratings": 4.7,
+        "seller": " EBI Solutions Ltd.",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/ebi-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Eleo.ai",
+        "ratings": 4.8,
+        "seller": " ELEO PSA",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/eleo-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Gradient Labs",
+        "ratings": 5.0,
+        "seller": " Gradient Labs",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/gradient-labs/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Grok 3 AI",
+        "ratings": 4.7,
+        "seller": " Grok 3 AI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/grok-3-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "InsertChat",
+        "ratings": 5.0,
+        "seller": " InsertChat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/insertchat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Kindly",
+        "ratings": 4.9,
+        "seller": " Kindly",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/kindly/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Knowlee AI",
+        "ratings": 4.2,
+        "seller": " Knowlee",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/knowlee-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Lettria",
+        "ratings": 4.9,
+        "seller": " Lettria",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/lettria/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "NLX",
+        "ratings": 4.8,
+        "seller": " NLX Inc.",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/nlx/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Yatter",
+        "ratings": 4.7,
+        "seller": " Yatter",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/yatterai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "AI Agents",
+        "ratings": 4.3,
+        "seller": " Yep AI",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/ai-agents/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Aizzy",
+        "ratings": 4.3,
+        "seller": " Aizzy",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/aizzy/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Anakin AI",
+        "ratings": 4.0,
+        "seller": " Apidog",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/anakin-ai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Arconar",
+        "ratings": 4.5,
+        "seller": " Arconar",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/arconar/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "atbridges",
+        "ratings": 4.5,
+        "seller": " Akratech",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/atbridges/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Bind",
+        "ratings": 4.8,
+        "seller": " Bind",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/bind-bind/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Botgo",
+        "ratings": 4.8,
+        "seller": " Botgo Technologies",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/botgo/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "BotSpace",
+        "ratings": 4.8,
+        "seller": " BotSpace",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/botspace/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "ChatifyIT",
+        "ratings": 5.0,
+        "seller": " ChatifyIT",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/chatifyit/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "globalChat",
+        "ratings": 4.5,
+        "seller": " Globalchat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/globalchat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "GooseAI",
+        "ratings": 4.3,
+        "seller": " GooseAi",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/gooseai-gooseai/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "GoSearch AI Enterprise Search",
+        "ratings": 4.8,
+        "seller": " GoLinks",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/gosearch-ai-enterprise-search/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "HeiChat",
+        "ratings": 5.0,
+        "seller": " Heichat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/heichat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "HotBot",
+        "ratings": 4.0,
+        "seller": " HotBot",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/hotbot/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Kaia's Team",
+        "ratings": 4.3,
+        "seller": " MAVENS",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/kaia-s-team/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "MonoChat",
+        "ratings": 4.3,
+        "seller": " Bordo.io",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/bordo-io-monochat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "MyBotChat",
+        "ratings": 4.5,
+        "seller": " MyBotChat",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/mybotchat/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "OSOS",
+        "ratings": 4.3,
+        "seller": " Mozn",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/osos/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Pearl.com",
+        "ratings": 5.0,
+        "seller": " Pearl.com",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/pearl-com/reviews",
+        "category": "ai-chatbots"
+    },
+    {
+        "name": "Jira",
+        "ratings": 4.3,
+        "seller": " Atlassian",
+        "users": "Software Engineer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/jira/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Asana",
+        "ratings": 4.4,
+        "seller": " Asana",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/asana/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Smartsheet",
+        "ratings": 4.4,
+        "seller": " Smartsheet",
+        "users": "Project Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/smartsheet/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "monday Work Management",
+        "ratings": 4.7,
+        "seller": " monday.com",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/monday-com/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "ClickUp",
+        "ratings": 4.7,
+        "seller": " ClickUp",
+        "users": "CEO",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/clickup/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Airtable",
+        "ratings": 4.6,
+        "seller": " Airtable",
+        "users": "Owner",
+        "industries": "Non-Profit Organization Management",
+        "link": "https://www.g2.com/products/airtable/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Wrike",
+        "ratings": 4.2,
+        "seller": " Wrike, Inc.",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/wrike/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Backlog",
+        "ratings": 4.6,
+        "seller": " Nulab Inc.",
+        "users": "Software Engineer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/backlog/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Zoho Projects",
+        "ratings": 4.3,
+        "seller": " Zoho",
+        "users": "Project Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/zoho-projects/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Time Champ",
+        "ratings": 4.8,
+        "seller": " Snovasys Software Solutiions",
+        "users": "Digital Marketing Executive",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/time-champ/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Hive",
+        "ratings": 4.6,
+        "seller": " Hive",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/hive-hive-hive/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Scoro",
+        "ratings": 4.5,
+        "seller": " Scoro",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/scoro/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Conceptboard",
+        "ratings": 4.6,
+        "seller": " Conceptboard",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/conceptboard/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Freedcamp",
+        "ratings": 4.5,
+        "seller": " Freedcamp",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/freedcamp/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Quickbase",
+        "ratings": 4.4,
+        "seller": " Quickbase",
+        "users": "Project Manager",
+        "industries": "Construction",
+        "link": "https://www.g2.com/products/quickbase/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "RoboHead",
+        "ratings": 4.3,
+        "seller": " Aquent",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/robohead/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Worksection",
+        "ratings": 4.8,
+        "seller": " Worksection",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/worksection/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Aha!",
+        "ratings": 4.4,
+        "seller": " Aha! Labs",
+        "users": "Product Manager",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/aha/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "actiTIME",
+        "ratings": 4.6,
+        "seller": " actiTIME",
+        "users": "Agente de ventas",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/actitime/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "BigTime",
+        "ratings": 4.5,
+        "seller": " BigTime",
+        "users": "Office Manager",
+        "industries": "Accounting",
+        "link": "https://www.g2.com/products/bigtime/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "GanttPRO",
+        "ratings": 4.8,
+        "seller": " GanttPRO",
+        "users": "Student",
+        "industries": "Higher Education",
+        "link": "https://www.g2.com/products/ganttpro-ganttpro/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "ONLYOFFICE Workspace",
+        "ratings": 4.4,
+        "seller": " Ascensio System",
+        "users": null,
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/onlyoffice-workspace/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Workfront",
+        "ratings": 4.1,
+        "seller": " Adobe",
+        "users": "Project Manager",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/workfront/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Mural",
+        "ratings": 4.6,
+        "seller": " Mural",
+        "users": "UX Designer",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/mural/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Lytho",
+        "ratings": 4.3,
+        "seller": " Lytho",
+        "users": "Graphic Designer",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/lytho-lytho/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Whimsical",
+        "ratings": 4.6,
+        "seller": " Whimsical",
+        "users": "Product Manager",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/whimsical/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "GUIDEcx",
+        "ratings": 4.6,
+        "seller": " GuideCX",
+        "users": "Project Manager",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/guidecx/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "TeamGantt",
+        "ratings": 4.8,
+        "seller": " TeamGantt",
+        "users": "Project Manager",
+        "industries": "Computer Software",
+        "link": "https://www.g2.com/products/teamgantt/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "WorkflowMAX",
+        "ratings": 4.1,
+        "seller": " WorkflowMAX",
+        "users": "Director",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/workflowmax/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Freelo",
+        "ratings": 4.7,
+        "seller": " FreeloCZ",
+        "users": "Project manager",
+        "industries": "Non-Profit Organization Management",
+        "link": "https://www.g2.com/products/freelo/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Swit",
+        "ratings": 4.7,
+        "seller": " Swit",
+        "users": "CEO",
+        "industries": "Airlines/Aviation",
+        "link": "https://www.g2.com/products/swit/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Ravetree",
+        "ratings": 4.2,
+        "seller": " Ravetree",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/ravetree/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "awork",
+        "ratings": 4.3,
+        "seller": " awork",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/awork/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Kytes",
+        "ratings": 4.4,
+        "seller": " Kytes",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/kytes/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Breeze",
+        "ratings": 4.1,
+        "seller": " Breeze",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/breeze-llc-breeze/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "GoodDay Work",
+        "ratings": 4.3,
+        "seller": " GoodDay Work",
+        "users": null,
+        "industries": "Internet",
+        "link": "https://www.g2.com/products/goodday-work/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "OneSuite",
+        "ratings": 4.8,
+        "seller": " OneSuite",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/onesuite/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Nozbe",
+        "ratings": 4.6,
+        "seller": " Nozbe",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/nozbe/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Moovila",
+        "ratings": 4.8,
+        "seller": " Moovila",
+        "users": "Project Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/moovila/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Astravue",
+        "ratings": 5.0,
+        "seller": " Astravue",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/astravue/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Microsoft Project Server",
+        "ratings": 4.1,
+        "seller": " Microsoft",
+        "users": "Project Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/microsoft-project-server/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "TimeHero",
+        "ratings": 4.5,
+        "seller": " TimeHero",
+        "users": null,
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/timehero/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "SpiraPlan",
+        "ratings": 4.6,
+        "seller": " Inflectra",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/spiraplan/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Projectworks",
+        "ratings": 4.5,
+        "seller": " Projectworks",
+        "users": "Director",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/projectworks/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Kantata Professional Services Automation (formerly Mavenlink+ Kimble)",
+        "ratings": 4.2,
+        "seller": " Kantata (formerly Mavenlink + Kimble)",
+        "users": "Project Manager",
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/kantata-professional-services-automation-formerly-mavenlink-kimble/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "MeisterTask",
+        "ratings": 4.6,
+        "seller": " MeisterLabs",
+        "users": "Owner",
+        "industries": "Marketing and Advertising",
+        "link": "https://www.g2.com/products/meistertask/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "ITM Platform",
+        "ratings": 4.8,
+        "seller": " ITM Platform",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/itm-platform/reviews",
+        "category": "project-management"
+    },
+    {
+        "name": "Prism PPM (formerly WorkOtter)",
+        "ratings": 4.8,
+        "seller": " Prism PPM (formerly WorkOtter)",
+        "users": null,
+        "industries": "Information Technology and Services",
+        "link": "https://www.g2.com/products/prism-ppm-formerly-workotter/reviews",
+        "category": "project-management"
+    }
+]

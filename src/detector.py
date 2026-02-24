@@ -1,5 +1,4 @@
 from enum import Enum
-from urllib import response
 
 class BlockType(Enum):
     CLOUD_FLARE = "Cloudflare"
@@ -62,6 +61,8 @@ class Detector:
         content = await page.content()
         if "challenge-form" in content or "cf-ray" in content:
             return True
+        
+        return False
 
     async def detect_captcha(self, page):
         """
@@ -72,6 +73,7 @@ class Detector:
         if "captcha" in content.lower() or "g-recaptcha" in content:
             return True
         
+        return False
 
     async def detect_datadome(self, page):
         """
@@ -81,6 +83,8 @@ class Detector:
         content = await page.content()
         if "datadome" in content.lower():
             return True
+        
+        return False
 
     async def detect_dom_error(self, page):
         """
@@ -91,35 +95,53 @@ class Detector:
         if content is None:
             return False
         
-        if "blocked" in await content.inner_text().lower():
+        text = await content.inner_text()
+        if "blocked" in text.lower():
             return True
+        
+        return False
 
     async def detect_rate_limit(self, response):
         """
         Detecta si la pagina esta aplicando limitacion de tasa (Rate Limiting).
         Retorna True si detecta limitacion de tasa.
         """
+        if response is None:
+            return False
+        
         status = response.status
         if status == 429:
             return True
+        
+        return False
         
     async def bad_response(self, response):
         """
         Detecta respuestas HTTP que puedan indicar bloqueo.
         Retorna True si detecta una respuesta HTTP sospechosa.
         """
+        if response is None:
+            return False
+        
         status = response.status
         if status in [403, 404, 500]:
             return True
+        
+        return False
         
     async def bad_request(self, response):
         """
         Detecta solicitudes HTTP que puedan indicar bloqueo.
         Retorna True si detecta una solicitud HTTP sospechosa.
         """
+        if response is None:
+            return False
+        
         status = response.status
         if status != 200:
             return True
+        
+        return False
 
     async def detect_ip_block(self, page):
         """
@@ -130,6 +152,8 @@ class Detector:
         if "access denied" in content.lower() or "forbidden" in content.lower():
             return True
         
+        return False
+        
     async def detect_redirects(self, page):
         """
         Detecta redirecciones sospechosas que puedan indicar bloqueo.
@@ -137,6 +161,8 @@ class Detector:
         """
         if page.url != page.main_frame.url:
             return True
+        
+        return False
         
     async def soft_block(self, page):
         """
@@ -146,3 +172,5 @@ class Detector:
         content = await page.content()
         if "try again later" in content.lower() or "temporarily unavailable" in content.lower():
             return True
+        
+        return False

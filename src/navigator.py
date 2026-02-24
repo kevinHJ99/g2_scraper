@@ -1,4 +1,5 @@
 import random
+import logging
 import time
 
 
@@ -33,6 +34,7 @@ class Navigation:
         for _ in range(random.randint(2, 4)):
             await page.mouse.wheel(0, random.randint(200, 600))
             await page.wait_for_timeout(random.randint(800, 1500))
+
     
     async def run(self, page, metrics, extractor, detector, storage, retry_execute):
         targets = self.build_targets()
@@ -41,18 +43,18 @@ class Navigation:
             if i % 10 == 0:
                 await page.wait_for_timeout(random.randint(10000, 15000))  # pausa cada 10 iteraciones
 
-            url = f"https://www.g2.com/categories/{category}?order=g2_score&page={num_pages}#product-list"
+            url = f"https://www.g2.com/categories/{category}?page={num_pages}"
 
             s_time = time.time()
 
-            print(f"{i} navegando en {url}")
+            logging.info(f"{i} navegando en {url}")
 
             retries = 0
             response = None
             
             try:
                 response, retries = await retry_execute.execute(page.goto, url, wait_until="domcontentloaded")
-                await page.wait_for_selector("#ajax-container", timeout=12000)
+                await page.wait_for_selector('div[id="product-cards"]', state="attached", timeout=12000)
 
                 x = random.randint(50, 400)
                 y = random.randint(100, 600)
@@ -70,14 +72,19 @@ class Navigation:
 
                 products = extractor.extract(html)
                 storage.add_products(products, category)
+
+                logging.info(f"[Iter {i}] Productos: {len(products)} | HTML size: {len(html)}")
                 
                 latency = time.time() - s_time
+
+                logging.info(f"[Iter {i}] Latencia: {round(latency, 2)}s | Retries: {retries}")
 
                 metrics.record_ok(category, latency, retries=retries)
 
             except Exception as e:
                 latency = time.time() - s_time
                 metrics.record_error(category, str(e), latency, retries=retries)
+                logging.error(f"Error en {url}: {e}")
             
             # random delay
             delay = random.uniform(*self.config.RANGE_DELAY)

@@ -1,17 +1,17 @@
-MAX_ITERATIONS = 5
+MAX_ITERATIONS = 50
 MAX_RETRIES = 3
 INITIAL_BACKOFF = 2
 DELAY_MIN = 10
 DELAY_MAX = 20
 TIMEOUT = 30000
-HEADLESS = False
+ENDPOINT_URL = "http://localhost:9222"
 
 CATEGORIES = {
     "crm": 5,
-    "ai-chatbots": 5
+    "ai-chatbots": 10,
+    "project-management": 15,
+    "e-commerce-platforms": 6,
 }
 
 CYCLES = 10
-RANGE_DELAY = (5, 10)
-USE_STEALTH = False
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+RANGE_DELAY = (5.0, 15.0)

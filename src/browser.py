@@ -3,35 +3,23 @@ from playwright_stealth import Stealth
 import logging
 
 class BrowserManager:
-    def __init__(self, playwright, headless: bool = False, user_agent: str = None):
+    def __init__(self, playwright, endpoint_url):
         self.playwright = playwright
-        self.headless = headless
-        self.user_agent = user_agent
+        self.endpoint_url = endpoint_url
 
     async def create(self):
         try:
             # inicializa playwright
-            self.context = await self.playwright.chromium.launch_persistent_context(
-                headless=self.headless,
-                viewport={"width": 1280, "height": 800},
-                locale="es-CO",
-                timezone_id="America/Bogota",
-                args=[
-                    "--no-sandbox",
-                    "--disable-dev-shm-usage",
-                    "--disable-accelerated-2d-canvas",
-                    "--disable-gpu",
-                    "--window-size=1280,800",
-                ]
-                )
+            browser = await self.playwright.chromium.connect_over_cdp(self.endpoint_url, timeout=60000)
             
             # crear un nuevo contexto y página del navegador
-            # context = await self.browser.new_context(viewport={"width": 1280, "height": 800},)
-            
-            # crear una nueva página en el contexto del navegador
-            page = await self.context.new_pages()[0]
+            context = browser.contexts[0]
+
+            if context.pages:
+                page = context.pages[0]
+            else:
+                page = await context.new_page()
 
             return page
         except Exception as e:
             logging.error(f"Error creating browser: {e}")
-            await self.stop()

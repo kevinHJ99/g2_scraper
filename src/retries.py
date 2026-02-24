@@ -1,8 +1,9 @@
 import asyncio
 import random
+import logging
 
 class Retry:
-    def __init__(self, retries=3, delay=5):
+    def __init__(self, retries=3, delay=10):
         self.retries = retries
         self.delay = delay
 
@@ -23,5 +24,5 @@ class Retry:
                 elif attempt == self.retries:
                     raise last_exception
                 else:
-                    print("All retry attempts failed.")
+                    logging.error("All retry attempts failed.")
                     raise last_exception

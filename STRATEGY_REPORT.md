@@ -1,14 +1,15 @@
-Reporte
+# Reporte
 
 -> Durante el desarrollo del motor de scraping para g2.com, se identificó que el sitio utiliza mecanismos avanzados de protección contra scraping y bots, incluyendo:
 
 * Cloudflare
 * DataDome (Activo)
-* Fingerprinting del navegador y sistema operativo
+* Fingerprinting del navegador
 * Evaluación progresiva de sesión
 * Challenge dinámico vía JavaScript
 
-=================================
+==================================
+## Herramientas
 Se eligio Playwright como la herramienta mejor alternativa para realizar el scraper.
 Sin embargo, estos mecanismos detectan entornos automatizados, especialmente navegadores en contenedores o perfiles limpios.
 
@@ -33,7 +34,7 @@ Los entornos Linux en contenedor generan señales detectables por los sistemas a
 es facilmente detectable.
 
 ===================================
-Solución adoptada
+# Solución adoptada
 
 -> Se implementó una arquitectura basada en:
 
@@ -51,8 +52,7 @@ Razon:
 * Renderizado desacoplado de la lógica de scraping
 
 ==================================
-
-Arquitectura final
+# Arquitectura final
 
 -> El motor implementa:
 
@@ -87,6 +87,7 @@ Arquitectura final
 * Contendores en docker con Browser farm
 
 ============================================
+# Porque Playwright
 
 -> Porque Playwright y no Selenium
 - Selenium usa el protocolo WebDriver, que envía comandos HTTP por cada interacción. Es más lento y propenso a latencia.
@@ -95,12 +96,12 @@ Arquitectura final
 - Playwright es nativamente asincrono, lo que permite esperas automaticas sobre la carga los items antes de ejecutar una accion.
 
 ===========================================
-
+# Consideracion
 -> Nota de extraccion:
 Algunos campos presentan valores nulos debido a que la información no está disponible en el DOM del listado, no por fallo del extractor.
 
 ===========================================
-Conclusión
+# Conclusión
 
 El entorno del sitio está diseñado para detectar automatización en entornos no humanos.
 El renderizado es gestionado por una instancia externa de Chrome real, conectada vía CDP, dado que el uso de servidores

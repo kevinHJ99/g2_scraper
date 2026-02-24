@@ -1,6 +1,6 @@
 Contexto
 
--> Durante el desarrollo del motor de scraping para g2.com, se identificó que el sitio utiliza mecanismos avanzados de protección contra automatización, incluyendo:
+-> Durante el desarrollo del motor de scraping para g2.com, se identificó que el sitio utiliza mecanismos avanzados de protección contra scraping y bots, incluyendo:
 
 * Cloudflare
 * DataDome (Activo)
@@ -9,9 +9,10 @@ Contexto
 * Challenge dinámico vía JavaScript
 
 =================================
-Estos mecanismos detectan entornos automatizados, especialmente navegadores en contenedores o perfiles limpios.
+Se eligio Playwright como la herramienta mejor alternativa para realizar el scraper.
+Sin embargo, estos mecanismos detectan entornos automatizados, especialmente navegadores en contenedores o perfiles limpios.
 
-Intentos realizados
+Intentos realizados:
 
 -> Se evaluaron múltiples configuraciones:
 
@@ -22,13 +23,14 @@ Intentos realizados
 → No mitigó la detección.
 
 * Browserless en Docker
-→ Home funcional, bloqueo en navegación a categorías.
+→ Home funcional, bloqueo en navegación a categorías (Js Challenge).
 
 * Chrome en contenedor Debian
-→ Persistencia de fingerprint Linux detectable.
+→ Persistencia de fingerprint Linux detectable (Redireccion a una pagina de bloqueo o Js Challenge).
 
 Conclusión:
-Los entornos Linux en contenedor generan señales detectables por los sistemas anti-bot del sitio.
+Los entornos Linux en contenedor generan señales detectables por los sistemas anti-bot del sitio, usar playwright estandar
+es facilmente detectable.
 
 ===================================
 Solución adoptada
@@ -36,15 +38,13 @@ Solución adoptada
 -> Se implementó una arquitectura basada en:
 
 Chrome real del sistema controlado vía CDP
-Chrome externo (CDP)
-        ↓
-Motor de Scraping desacoplado
+Chrome externo (Chrome DevTools Protoco)
 
-Ventajas:
+Razon:
 
 * Fingerprint humano real (OS, GPU, fuentes, historial)
 
-* Perfil persistente
+* Perfil y cookies persistentes
 
 * Mayor estabilidad frente a detección progresiva
 
@@ -76,15 +76,28 @@ Arquitectura final
 
 * Conteo de bloqueos
 
+* Tipo de Bloqueos
+
 -> El sistema es escalable a futuro hacia:
 
 * Browserless SaaS
 
 * Proxies residenciales
 
-* Infraestructura distribuida
+* Contendores en docker con Browser farm
 
+============================================
+
+-> Porque Playwright y no Selenium
+- Selenium usa el protocolo WebDriver, que envía comandos HTTP por cada interacción. Es más lento y propenso a latencia.
+- Selenium requiere de waits manuales para evitar errores de elementos no encontrados.
+- Playwright puede usar el Chrome DevTools Protocol (CDP), una conexión WebSocket bidireccional constante. Esto permite una comunicación casi instantánea y un control mucho más granular sobre el navegador (ideal para entornos externos en Docker).
+- Playwright es nativamente asincrono, lo que permite esperas automaticas sobre la carga los items antes de ejecutar una accion.
+
+===========================================
 Conclusión
 
 El entorno del sitio está diseñado para detectar automatización en entornos no humanos.
-La solución implementada maximiza estabilidad manteniendo desacople arquitectónico y escalabilidad, sin introducir infraestructura externa innecesaria para el alcance de la prueba.
+El renderizado es gestionado por una instancia externa de Chrome real, conectada vía CDP, dado que el uso de servidores
+externos con entornos limpios son detectados por el fingerprint o el challenge de Js.
+Esto permite desacoplar completamente la lógica del scraper del motor de renderizado, garantizando intercambiabilidad y resiliencia.

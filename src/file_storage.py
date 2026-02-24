@@ -38,7 +38,7 @@ class FileStorageManager:
         
         try:
             with open(path, 'w', encoding='utf-8', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=['name', 'description', 'ratings', 'seller', 'user', 'industries', 'link', 'category'])
+                writer = csv.DictWriter(f, fieldnames=['name', 'description', 'ratings', 'seller', 'users', 'industries', 'link', 'category'])
                 writer.writeheader()
                 writer.writerows(self.products)
             logging.info(f"Archivo CSV guardado: {path}")

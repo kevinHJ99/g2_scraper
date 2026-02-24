@@ -1,9 +1,9 @@
 {
-    "t_iterations": 20,
-    "success_count": 20,
+    "t_iterations": 50,
+    "success_count": 50,
     "error_count": 0,
     "ok_rate": 100.0,
-    "avg_latency": 7.56,
-    "total_time": 389.7,
+    "avg_latency": 9.74,
+    "total_time": 1055.97,
     "blocked_count": {}
 }

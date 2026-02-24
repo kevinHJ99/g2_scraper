@@ -1,4 +1,4 @@
-MAX_ITERATIONS = 50
+MAX_ITERATIONS = 100
 MAX_RETRIES = 3
 INITIAL_BACKOFF = 2
 DELAY_MIN = 10
@@ -11,7 +11,8 @@ CATEGORIES = {
     "ai-chatbots": 10,
     "project-management": 15,
     "e-commerce-platforms": 6,
+    "marketing-automation": 8,  
 }
 
 CYCLES = 10
-RANGE_DELAY = (5.0, 15.0)
+RANGE_DELAY = (6.0, 18.0)

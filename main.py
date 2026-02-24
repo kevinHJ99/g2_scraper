@@ -35,7 +35,7 @@ async def main():
         metrics = MetricsRecorder()
         extractor = ExtractProducts()
         storage = FileStorageManager('data')
-        retry_execute = Retry(config.MAX_RETRIES, config.DELAY_MIN)
+        retry_execute = Retry(config.MAX_RETRIES, config.INITIAL_BACKOFF)
 
         # ===============// Executar Navegador //==============
         await navigator.warmup(page)
@@ -48,19 +48,23 @@ async def main():
             retry_execute
             )
 
-    # ===============// Guardar Metricas //==============
-    summary_ = metrics.summary()
-    for key, value in summary_.items():
-        logging.info(f"{key}: {value}")
+        # ===============// Guardar Metricas //==============
+        summary_ = metrics.summary()
+        for key, value in summary_.items():
+            logging.info(f"{key}: {value}")
 
-    with open('logs/metrics_summary.json', 'w') as f:
-        json.dump(summary_, f, indent=4)
+        with open('logs/metrics_summary.json', 'w') as f:
+            json.dump(summary_, f, indent=4)
+        
+        # ===============// Cerrar Navegador //==============
+        await browser_manager.close()
    
     # ===============// Guardar Datos //==============
     storage.save_json()
     storage.save_csv()
 
     logging.info(storage.get_stats())
+
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -3,9 +3,9 @@ import random
 import logging
 
 class Retry:
-    def __init__(self, retries=3, delay=10):
+    def __init__(self, retries=3, backoff=2):
         self.retries = retries
-        self.delay = delay
+        self.backoff = backoff
 
     async def execute(self, cor_func, *args, **kwargs):
 
@@ -19,7 +19,7 @@ class Retry:
                 last_exception = e
 
                 if attempt < self.retries:
-                    delay_time = self.delay * (2 ** (attempt - 1)) + random.uniform(0.5, 1.5)
+                    delay_time = self.backoff * (2 ** (attempt - 1)) + random.uniform(0.5, 1.5)
                     await asyncio.sleep(delay_time)
                 elif attempt == self.retries:
                     raise last_exception

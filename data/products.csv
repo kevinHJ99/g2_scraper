@@ -1,1 +1,433 @@
-name,description,ratings,seller,user,industries,link,category
+name,description,ratings,seller,users,industries,link,category
+Salesforce Sales Cloud,,4.4, Salesforce,"['Account Executive', 'Account Manager', 'Account Executive', 'Account Manager']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/salesforce-salesforce-sales-cloud/reviews,crm
+HubSpot Sales Hub,,4.4, HubSpot,"['Account Executive', 'Sales Development Representative', 'Account Executive', 'Sales Development Representative']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/hubspot-sales-hub/reviews,crm
+Pipedrive,,4.3, Pipedrive,"['CEO', 'Sales Manager', 'CEO', 'Sales Manager']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/pipedrive/reviews,crm
+Close,,4.7, Close,"['CEO', 'Founder', 'CEO', 'Founder']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/close/reviews,crm
+ActiveCampaign,,4.5, ActiveCampaign,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Health, Wellness and Fitness', 'Marketing and Advertising', 'Health, Wellness and Fitness']",https://www.g2.com/products/activecampaign/reviews,crm
+Zoho CRM,,4.1, Zoho,"['Owner', 'CEO', 'Owner', 'CEO']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/zoho-crm/reviews,crm
+Bigin by Zoho CRM,,4.6, Zoho,"['CEO', 'Founder', 'CEO', 'Founder']","['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/bigin-by-zoho-crm/reviews,crm
+HighLevel,,4.6, HighLevel,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Consulting', 'Marketing and Advertising', 'Consulting']",https://www.g2.com/products/highlevel/reviews,crm
+monday CRM,,4.6, monday.com,"['Project Manager', 'CEO', 'Project Manager', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/monday-crm/reviews,crm
+CRMOne,,4.8, CrmOne,,"['Marketing and Advertising', 'Financial Services', 'Marketing and Advertising', 'Financial Services']",https://www.g2.com/products/crmone/reviews,crm
+Brevo Marketing Platform,,4.5, Brevo,"['CEO', 'Founder', 'CEO', 'Founder']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/brevo-marketing-platform/reviews,crm
+Mekari Qontak,,4.7, Mekari,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/mekari-qontak/reviews,crm
+LocaliQ,,4.5, USA TODAY Co.,"['Owner', 'Marketing Manager', 'Owner', 'Marketing Manager']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/localiq/reviews,crm
+Less Annoying CRM,,4.9, Less Annoying Software,"['Owner', 'President', 'Owner', 'President']","['Insurance', 'Financial Services', 'Insurance', 'Financial Services']",https://www.g2.com/products/less-annoying-crm/reviews,crm
+NetSuite,,4.1, Oracle,"['Controller', 'Accounting Manager', 'Controller', 'Accounting Manager']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/netsuite/reviews,crm
+Creatio,,4.7, Creatio,"['CEO', 'CEO']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/creatio/reviews,crm
+RSoft CRM,,5.0, RSoft,,"['Real Estate', 'Real Estate']",https://www.g2.com/products/rsoft-crm/reviews,crm
+Freshsales,,4.5, Freshworks,"['CEO', 'Business Development Manager', 'CEO', 'Business Development Manager']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/freshsales/reviews,crm
+OnePageCRM,,4.7, OnePageCRM,"['Founder', 'Managing Director', 'Founder', 'Managing Director']","['Non-Profit Organization Management', 'Marketing and Advertising', 'Non-Profit Organization Management', 'Marketing and Advertising']",https://www.g2.com/products/onepagecrm/reviews,crm
+folk,,4.5, folk,"['CEO', 'Founder', 'CEO', 'Founder']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/folk-folk/reviews,crm
+Knack,,4.3, Knack,,"['Construction', 'Information Technology and Services', 'Construction', 'Information Technology and Services']",https://www.g2.com/products/knack/reviews,crm
+Nimble CRM,,4.5, Nimble,"['Owner', 'President', 'Owner', 'President']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/nimble/reviews,crm
+Oracle EBS CRM,,3.9, Oracle,,"['Retail', 'Information Technology and Services', 'Retail', 'Information Technology and Services']",https://www.g2.com/products/oracle-ebs-crm/reviews,crm
+Salesmate,,4.7, Salesmate,"['Owner', 'Owner']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/salesmate/reviews,crm
+Salesflare,,4.8, Salesflare,"['CEO', 'Co-Founder', 'CEO', 'Co-Founder']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/salesflare/reviews,crm
+Zoho CRM Plus,,4.4, Zoho,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/zoho-crm-plus-2018-12-06/reviews,crm
+Thryv,,4.3, Thryv,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Health, Wellness and Fitness', 'Marketing and Advertising', 'Health, Wellness and Fitness']",https://www.g2.com/products/thryv/reviews,crm
+Snov.io,,4.5, Snovio,"['Marketing Manager', 'CEO', 'Marketing Manager', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/snov-io/reviews,crm
+Streak,,4.5, Streak,"['Engineer', 'Owner', 'Engineer', 'Owner']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/streak/reviews,crm
+Salestarget.ai,,4.9, Salestarget LLC,"['CEO', 'CTO', 'CEO', 'CTO']","['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/salestarget-ai/reviews,crm
+Constant Contact Advanced Automation,,4.4, Constant Contact,"['Owner', 'Marketing Manager', 'Owner', 'Marketing Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/constant-contact-advanced-automation/reviews,crm
+Odoo CRM,,4.1, Odoo,"['Business Development Manager', 'Business Development Manager']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/odoo-crm/reviews,crm
+Pipeliner CRM,,4.6, Pipelinersales Inc.,"['President', 'Director', 'President', 'Director']","['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/pipeliner-crm/reviews,crm
+AllClients,,4.6, AllClients,,"['Financial Services', 'Insurance', 'Financial Services', 'Insurance']",https://www.g2.com/products/allclients/reviews,crm
+Maximizer,,4.0, Maximizer Software,"['Financial Advisor', 'Administrative Assistant', 'Financial Advisor', 'Administrative Assistant']","['Financial Services', 'Investment Management', 'Financial Services', 'Investment Management']",https://www.g2.com/products/maximizer/reviews,crm
+Copper,,4.5, Copper,"['CEO', 'Owner', 'CEO', 'Owner']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/copper/reviews,crm
+OctopusPro,,5.0, OctopusPro,"['CEO', 'CEO']","['Computer Software', 'Computer Software']",https://www.g2.com/products/octopuspro/reviews,crm
+Efficy CRM,,4.5, Efficy,,"['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/efficy-crm/reviews,crm
+Apptivo,,4.4, Apptivo,"['Owner', 'President', 'Owner', 'President']","['Marketing and Advertising', 'Construction', 'Marketing and Advertising', 'Construction']",https://www.g2.com/products/apptivo/reviews,crm
+SuperOffice CRM,,4.4, SuperOffice AS,,"['Wholesale', 'Computer Software', 'Wholesale', 'Computer Software']",https://www.g2.com/products/superoffice-crm/reviews,crm
+Sage CRM,,3.8, Sage Software,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/sage-crm/reviews,crm
+Membrain,,4.6, Membrain,"['CEO', 'CEO']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/membrain/reviews,crm
+Success.ai,,4.8, Success AI,"['Virtual Assistant', 'Founder', 'Virtual Assistant', 'Founder']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/success-ai/reviews,crm
+Pipeline CRM,,4.4, Pipeline CRM,"['Account Manager', 'President', 'Account Manager', 'President']","['Construction', 'Marketing and Advertising', 'Construction', 'Marketing and Advertising']",https://www.g2.com/products/pipeline-crm/reviews,crm
+Bixjet,,4.8, Bixjet,"['Founder', 'Founder']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/bixjet/reviews,crm
+Ohanafy,,5.0, Ohanafy,,"['Food & Beverages', 'Food & Beverages']",https://www.g2.com/products/ohanafy/reviews,crm
+Oracle Siebel,,3.5, Oracle,"['Consultant', 'Customer Service Representative', 'Consultant', 'Customer Service Representative']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/oracle-siebel/reviews,crm
+C2CRM,,4.6," Clear C2, Inc.",,"['Telecommunications', 'Hospital & Health Care', 'Telecommunications', 'Hospital & Health Care']",https://www.g2.com/products/c2crm/reviews,crm
+Attio,,4.5, Attio,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/attio/reviews,crm
+Striven,,4.5, Miles IT,,"['Accounting', 'Construction', 'Accounting', 'Construction']",https://www.g2.com/products/striven-2024-03-26/reviews,crm
+ChatGPT,,4.7, OpenAI,"['Student', 'Software Engineer', 'Student', 'Software Engineer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/chatgpt/reviews,ai-chatbots
+Notion,,4.6, Notion,"['Software Engineer', 'Student', 'Software Engineer', 'Student']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/notion/reviews,ai-chatbots
+Gemini,,4.4, Google,"['Software Engineer', 'Research Analyst', 'Software Engineer', 'Research Analyst']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/google-gemini/reviews,ai-chatbots
+Perplexity,,4.5, Perplexity AI,"['Founder', 'Software Engineer', 'Founder', 'Software Engineer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/perplexity/reviews,ai-chatbots
+Podium,,4.6, Podium,"['Owner', 'General Manager', 'Owner', 'General Manager']","['Automotive', 'Retail', 'Automotive', 'Retail']",https://www.g2.com/products/podium/reviews,ai-chatbots
+1min.AI,,4.6, 1min.AI,"['CEO', 'Owner', 'CEO', 'Owner']","['Information Technology and Services', 'Consulting', 'Information Technology and Services', 'Consulting']",https://www.g2.com/products/1min-ai/reviews,ai-chatbots
+indigitall,,4.8, indigitall,"['Periodista', 'Marketing', 'Periodista', 'Marketing']","['Telecommunications', 'Marketing and Advertising', 'Telecommunications', 'Marketing and Advertising']",https://www.g2.com/products/indigitall/reviews,ai-chatbots
+Tidio,,4.6, Tidio,"['Owner', 'CEO', 'Owner', 'CEO']","['Retail', 'Marketing and Advertising', 'Retail', 'Marketing and Advertising']",https://www.g2.com/products/tidio/reviews,ai-chatbots
+Google Cloud Dialogflow,,4.4, Google,"['Software Engineer', 'Software Engineer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/google-cloud-dialogflow/reviews,ai-chatbots
+Apollo.io,,4.7, Apollo.io,"['Account Executive', 'Business Development Manager', 'Account Executive', 'Business Development Manager']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/apollo-io/reviews,ai-chatbots
+Decagon,,4.9, Decagon,,,https://www.g2.com/products/decagon/reviews,ai-chatbots
+TESS AI,,4.7, Pareto Group,"['CEO', 'Proprietário', 'CEO', 'Proprietário']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/tess-ai/reviews,ai-chatbots
+Dashworks,,4.5, HubSpot,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/dashworks/reviews,ai-chatbots
+Simplified,,4.6, Simplified,"['Founder', 'CEO', 'Founder', 'CEO']","['Writing and Editing', 'Marketing and Advertising', 'Writing and Editing', 'Marketing and Advertising']",https://www.g2.com/products/simplified/reviews,ai-chatbots
+Voiceflow,,4.6, Voiceflow,"['Founder', 'CEO', 'Founder', 'CEO']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/voiceflow/reviews,ai-chatbots
+Sobot Omnichannel Suite,,4.9, Sobot,"['CEO', 'CEO']","['Computer Software', 'Computer Software']",https://www.g2.com/products/sobot-omnichannel-suite/reviews,ai-chatbots
+DigitalOcean,,4.6, DigitalOcean,"['Software Engineer', 'CTO', 'Software Engineer', 'CTO']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/digitalocean/reviews,ai-chatbots
+Alhena AI,,4.9, Alhena AI,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/alhena-ai/reviews,ai-chatbots
+Zoom Virtual Agent,,4.5, Zoom,,"['Computer Software', 'Retail', 'Computer Software', 'Retail']",https://www.g2.com/products/zoom-virtual-agent/reviews,ai-chatbots
+Assembled AI,,4.8, Assembled,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/assembled-ai/reviews,ai-chatbots
+scite.ai,,4.7, scite.ai,,"['Research', 'Higher Education', 'Research', 'Higher Education']",https://www.g2.com/products/scite-ai/reviews,ai-chatbots
+Octocom AI Customer Experience Suite,,5.0, Octocom,,"['Retail', 'Retail']",https://www.g2.com/products/octocom-ai-customer-experience-suite/reviews,ai-chatbots
+Boost.ai,,4.7, Boost.ai,,"['Telecommunications', 'Banking', 'Telecommunications', 'Banking']",https://www.g2.com/products/boost-ai/reviews,ai-chatbots
+Joule,,4.4, SAP,,"['Information Technology and Services', 'Computer & Network Security', 'Information Technology and Services', 'Computer & Network Security']",https://www.g2.com/products/joule/reviews,ai-chatbots
+Landbot,,4.7, Landbot.io,"['CEO', 'Founder', 'CEO', 'Founder']","['Marketing and Advertising', 'Financial Services', 'Marketing and Advertising', 'Financial Services']",https://www.g2.com/products/landbot/reviews,ai-chatbots
+marketbetter,,4.9, marketbetter.ai,,"['Telecommunications', 'Information Technology and Services', 'Telecommunications', 'Information Technology and Services']",https://www.g2.com/products/marketbetter/reviews,ai-chatbots
+Juma,,4.8, Juma,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/juma/reviews,ai-chatbots
+Unleash,,5.0, Zendesk,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/zendesk-unleash/reviews,ai-chatbots
+Ada,,4.6," ADA SUPPORT, INC.",,"['Financial Services', 'Telecommunications', 'Financial Services', 'Telecommunications']",https://www.g2.com/products/ada-support-inc-ada/reviews,ai-chatbots
+Kapture CX,,4.5, Kapture CX,"['Team Leader', 'Manager', 'Team Leader', 'Manager']","['Consumer Services', 'Pharmaceuticals', 'Consumer Services', 'Pharmaceuticals']",https://www.g2.com/products/kapture-cx/reviews,ai-chatbots
+WotNot,,4.6, WotNot,,"['Marketing and Advertising', 'Education Management', 'Marketing and Advertising', 'Education Management']",https://www.g2.com/products/wotnot/reviews,ai-chatbots
+G2 Profile and Reviews,,4.7, G2,"['Software Engineer', 'Software Developer', 'Software Engineer', 'Software Developer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/g2/reviews,ai-chatbots
+DocketAI,,4.8, Docket,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/docketai/reviews,ai-chatbots
+Younet,,4.9, Younet,,,https://www.g2.com/products/younet/reviews,ai-chatbots
+WorkHub WorkBot,,4.9, WorkHub,,"['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/workhub-workbot/reviews,ai-chatbots
+StackAI,,4.5, StackAI,,,https://www.g2.com/products/stackai/reviews,ai-chatbots
+AI4Chat,,4.7, AI4Chat,,,https://www.g2.com/products/ai4chat/reviews,ai-chatbots
+Zaapi,,4.6, Zaapi,,,https://www.g2.com/products/zaapi/reviews,ai-chatbots
+You.com,,4.4, You,,,https://www.g2.com/products/you-com/reviews,ai-chatbots
+TypingMind,,4.3, TypingMind,,,https://www.g2.com/products/typingmind-typingmind/reviews,ai-chatbots
+Molin AI,,4.6, Molin AI,,,https://www.g2.com/products/molin-ai/reviews,ai-chatbots
+ChatSpark,,4.6, ChatSpark,,,https://www.g2.com/products/chatspark/reviews,ai-chatbots
+DapperGPT,,4.3, DapperGPT,,,https://www.g2.com/products/dappergpt/reviews,ai-chatbots
+AnonChatGPT,,4.0, AnonChatGPT,,,https://www.g2.com/products/anonchatgpt/reviews,ai-chatbots
+BraveGPT,,4.3, KudoAI,,,https://www.g2.com/products/bravegpt/reviews,ai-chatbots
+CoSupport AI,,4.9, CoSupport AI,,,https://www.g2.com/products/cosupport-ai-2025-07-17/reviews,ai-chatbots
+Maven AGI,,4.7, Maven AGI,,,https://www.g2.com/products/maven-agi/reviews,ai-chatbots
+ChatFast,,4.4, ChatFast,,,https://www.g2.com/products/chatfast/reviews,ai-chatbots
+DeftGPT,,4.0, DeftGPT,,,https://www.g2.com/products/deftgpt/reviews,ai-chatbots
+HelpCrunch,,4.7, HelpCrunch,"['CEO', 'Founder', 'CEO', 'Founder']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/helpcrunch/reviews,ai-chatbots
+Twig AI,,4.9, Twig.so,,,https://www.g2.com/products/twig-ai/reviews,ai-chatbots
+AgentGPT,,3.8, AgentGPT,,,https://www.g2.com/products/agentgpt/reviews,ai-chatbots
+ChatBot,,4.5, Text,,,https://www.g2.com/products/chatbot/reviews,ai-chatbots
+Dante AI,,5.0, Dante AI,,,https://www.g2.com/products/dante-ai/reviews,ai-chatbots
+Denser Search and Chat,,4.8, Denser,,,https://www.g2.com/products/denser-search-and-chat/reviews,ai-chatbots
+Discord,,4.8, TextAiFy,,,https://www.g2.com/products/textaify-discord/reviews,ai-chatbots
+Langdock,,5.0, Langdock,,,https://www.g2.com/products/langdock/reviews,ai-chatbots
+Mavenoid,,4.8, Mavenoid,,"['Consumer Electronics', 'Consumer Electronics']",https://www.g2.com/products/mavenoid/reviews,ai-chatbots
+Customerly,,4.4, Customerly,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/customerly/reviews,ai-chatbots
+deepseek r1,,4.2, deepseek r1,,,https://www.g2.com/products/deepseek-r1/reviews,ai-chatbots
+Whippy,,4.9, Whippy,,"['Staffing and Recruiting', 'Staffing and Recruiting']",https://www.g2.com/products/whippy/reviews,ai-chatbots
+AiryChat AI Assistants,,5.0, AiryChat,,,https://www.g2.com/products/airychat-ai-assistants/reviews,ai-chatbots
+BotSailor,,4.6, BotSailor,,,https://www.g2.com/products/botsailor/reviews,ai-chatbots
+ChatBeacon AI,,4.6, SmartMax Software,,"['Consumer Services', 'Consumer Services']",https://www.g2.com/products/chatbeacon-ai/reviews,ai-chatbots
+CX Genie,,4.3, CX Genie,,,https://www.g2.com/products/cx-genie/reviews,ai-chatbots
+EtherAssist,,5.0, EfficientEther,,,https://www.g2.com/products/etherassist/reviews,ai-chatbots
+Fini,,5.0, Fini,,,https://www.g2.com/products/fini/reviews,ai-chatbots
+lobstr,,4.5, lobstr,,,https://www.g2.com/products/lobstr/reviews,ai-chatbots
+MaxContact,,4.6, MaxContact,,"['Financial Services', 'Insurance', 'Financial Services', 'Insurance']",https://www.g2.com/products/maxcontact/reviews,ai-chatbots
+Navu,,4.8, Navu,,,https://www.g2.com/products/navu/reviews,ai-chatbots
+Comm100,,4.3, Comm100 Network Corporation,,,https://www.g2.com/products/comm100-network-corporation-comm100/reviews,ai-chatbots
+EBI.AI,,4.7, EBI Solutions Ltd.,,,https://www.g2.com/products/ebi-ai/reviews,ai-chatbots
+Eleo.ai,,4.8, ELEO PSA,,,https://www.g2.com/products/eleo-ai/reviews,ai-chatbots
+Gradient Labs,,5.0, Gradient Labs,,,https://www.g2.com/products/gradient-labs/reviews,ai-chatbots
+Grok 3 AI,,4.7, Grok 3 AI,,,https://www.g2.com/products/grok-3-ai/reviews,ai-chatbots
+InsertChat,,5.0, InsertChat,,,https://www.g2.com/products/insertchat/reviews,ai-chatbots
+Kindly,,4.9, Kindly,,,https://www.g2.com/products/kindly/reviews,ai-chatbots
+Knowlee AI,,4.2, Knowlee,,,https://www.g2.com/products/knowlee-ai/reviews,ai-chatbots
+Lettria,,4.9, Lettria,,,https://www.g2.com/products/lettria/reviews,ai-chatbots
+NLX,,4.8, NLX Inc.,,,https://www.g2.com/products/nlx/reviews,ai-chatbots
+Yatter,,4.7, Yatter,,,https://www.g2.com/products/yatterai/reviews,ai-chatbots
+AI Agents,,4.3, Yep AI,,,https://www.g2.com/products/ai-agents/reviews,ai-chatbots
+Aizzy,,4.3, Aizzy,,,https://www.g2.com/products/aizzy/reviews,ai-chatbots
+Anakin AI,,4.0, Apidog,,,https://www.g2.com/products/anakin-ai/reviews,ai-chatbots
+Arconar,,4.5, Arconar,,,https://www.g2.com/products/arconar/reviews,ai-chatbots
+atbridges,,4.5, Akratech,,,https://www.g2.com/products/atbridges/reviews,ai-chatbots
+Bind,,4.8, Bind,,,https://www.g2.com/products/bind-bind/reviews,ai-chatbots
+Botgo,,4.8, Botgo Technologies,,,https://www.g2.com/products/botgo/reviews,ai-chatbots
+BotSpace,,4.8, BotSpace,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/botspace/reviews,ai-chatbots
+ChatifyIT,,5.0, ChatifyIT,,,https://www.g2.com/products/chatifyit/reviews,ai-chatbots
+globalChat,,4.5, Globalchat,,,https://www.g2.com/products/globalchat/reviews,ai-chatbots
+GooseAI,,4.3, GooseAi,,,https://www.g2.com/products/gooseai-gooseai/reviews,ai-chatbots
+GoSearch AI Enterprise Search,,4.8, GoLinks,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/gosearch-ai-enterprise-search/reviews,ai-chatbots
+HeiChat,,5.0, Heichat,,,https://www.g2.com/products/heichat/reviews,ai-chatbots
+HotBot,,4.0, HotBot,,,https://www.g2.com/products/hotbot/reviews,ai-chatbots
+Kaia's Team,,4.3, MAVENS,,,https://www.g2.com/products/kaia-s-team/reviews,ai-chatbots
+MonoChat,,4.3, Bordo.io,,,https://www.g2.com/products/bordo-io-monochat/reviews,ai-chatbots
+MyBotChat,,4.5, MyBotChat,,,https://www.g2.com/products/mybotchat/reviews,ai-chatbots
+OSOS,,4.3, Mozn,,,https://www.g2.com/products/osos/reviews,ai-chatbots
+Pearl.com,,5.0, Pearl.com,,,https://www.g2.com/products/pearl-com/reviews,ai-chatbots
+Jira,,4.3, Atlassian,"['Software Engineer', 'Senior Software Engineer', 'Software Engineer', 'Senior Software Engineer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/jira/reviews,project-management
+Asana,,4.4, Asana,"['Project Manager', 'Owner', 'Project Manager', 'Owner']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/asana/reviews,project-management
+Smartsheet,,4.4, Smartsheet,"['Project Manager', 'Senior Project Manager', 'Project Manager', 'Senior Project Manager']","['Information Technology and Services', 'Construction', 'Information Technology and Services', 'Construction']",https://www.g2.com/products/smartsheet/reviews,project-management
+monday Work Management,,4.7, monday.com,"['Project Manager', 'CEO', 'Project Manager', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/monday-com/reviews,project-management
+ClickUp,,4.7, ClickUp,"['CEO', 'Project Manager', 'CEO', 'Project Manager']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/clickup/reviews,project-management
+Airtable,,4.6, Airtable,"['Owner', 'Project Manager', 'Owner', 'Project Manager']","['Non-Profit Organization Management', 'Marketing and Advertising', 'Non-Profit Organization Management', 'Marketing and Advertising']",https://www.g2.com/products/airtable/reviews,project-management
+Wrike,,4.2," Wrike, Inc.","['Project Manager', 'Marketing Manager', 'Project Manager', 'Marketing Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/wrike/reviews,project-management
+Backlog,,4.6, Nulab Inc.,"['Software Engineer', 'Software Developer', 'Software Engineer', 'Software Developer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/backlog/reviews,project-management
+Zoho Projects,,4.3, Zoho,"['Project Manager', 'CEO', 'Project Manager', 'CEO']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/zoho-projects/reviews,project-management
+Time Champ,,4.8, Snovasys Software Solutiions,"['Digital Marketing Executive', 'Digital Marketing Executive']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/time-champ/reviews,project-management
+Hive,,4.6, Hive,"['Project Manager', 'Graphic Designer', 'Project Manager', 'Graphic Designer']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/hive-hive-hive/reviews,project-management
+Scoro,,4.5, Scoro,"['Project Manager', 'Director', 'Project Manager', 'Director']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/scoro/reviews,project-management
+Conceptboard,,4.6, Conceptboard,,"['Computer Software', 'Management Consulting', 'Computer Software', 'Management Consulting']",https://www.g2.com/products/conceptboard/reviews,project-management
+Freedcamp,,4.5, Freedcamp,,"['Marketing and Advertising', 'Non-Profit Organization Management', 'Marketing and Advertising', 'Non-Profit Organization Management']",https://www.g2.com/products/freedcamp/reviews,project-management
+Quickbase,,4.4, Quickbase,"['Project Manager', 'Project Coordinator', 'Project Manager', 'Project Coordinator']","['Construction', 'Information Technology and Services', 'Construction', 'Information Technology and Services']",https://www.g2.com/products/quickbase/reviews,project-management
+RoboHead,,4.3, Aquent,,"['Marketing and Advertising', 'Financial Services', 'Marketing and Advertising', 'Financial Services']",https://www.g2.com/products/robohead/reviews,project-management
+Worksection,,4.8, Worksection,,"['Marketing and Advertising', 'Civic & Social Organization', 'Marketing and Advertising', 'Civic & Social Organization']",https://www.g2.com/products/worksection/reviews,project-management
+Aha!,,4.4, Aha! Labs,"['Product Manager', 'Product Owner', 'Product Manager', 'Product Owner']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/aha/reviews,project-management
+actiTIME,,4.6, actiTIME,"['Agente de ventas', 'Agente de ventas']","['Information Technology and Services', 'Financial Services', 'Information Technology and Services', 'Financial Services']",https://www.g2.com/products/actitime/reviews,project-management
+BigTime,,4.5, BigTime,"['Office Manager', 'President', 'Office Manager', 'President']","['Accounting', 'Architecture & Planning', 'Accounting', 'Architecture & Planning']",https://www.g2.com/products/bigtime/reviews,project-management
+GanttPRO,,4.8, GanttPRO,"['Student', 'Project Manager', 'Student', 'Project Manager']","['Higher Education', 'Computer Software', 'Higher Education', 'Computer Software']",https://www.g2.com/products/ganttpro-ganttpro/reviews,project-management
+ONLYOFFICE Workspace,,4.4, Ascensio System,,"['Computer Software', 'Higher Education', 'Computer Software', 'Higher Education']",https://www.g2.com/products/onlyoffice-workspace/reviews,project-management
+Workfront,,4.1, Adobe,"['Project Manager', 'Senior Project Manager', 'Project Manager', 'Senior Project Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/workfront/reviews,project-management
+Mural,,4.6, Mural,"['UX Designer', 'Product Manager', 'UX Designer', 'Product Manager']","['Information Technology and Services', 'Management Consulting', 'Information Technology and Services', 'Management Consulting']",https://www.g2.com/products/mural/reviews,project-management
+Lytho,,4.3, Lytho,"['Graphic Designer', 'Senior Graphic Designer', 'Graphic Designer', 'Senior Graphic Designer']","['Marketing and Advertising', 'Higher Education', 'Marketing and Advertising', 'Higher Education']",https://www.g2.com/products/lytho-lytho/reviews,project-management
+Whimsical,,4.6, Whimsical,"['Product Manager', 'CEO', 'Product Manager', 'CEO']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/whimsical/reviews,project-management
+GUIDEcx,,4.6, GuideCX,"['Project Manager', 'Implementation Manager', 'Project Manager', 'Implementation Manager']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/guidecx/reviews,project-management
+TeamGantt,,4.8, TeamGantt,"['Project Manager', 'Director', 'Project Manager', 'Director']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/teamgantt/reviews,project-management
+WorkflowMAX,,4.1, WorkflowMAX,"['Director', 'Director']","['Marketing and Advertising', 'Accounting', 'Marketing and Advertising', 'Accounting']",https://www.g2.com/products/workflowmax/reviews,project-management
+Freelo,,4.7, FreeloCZ,"['Project manager', 'CEO', 'Project manager', 'CEO']","['Non-Profit Organization Management', 'Civic & Social Organization', 'Non-Profit Organization Management', 'Civic & Social Organization']",https://www.g2.com/products/freelo/reviews,project-management
+Swit,,4.7, Swit,"['CEO', 'Deputy General Manager', 'CEO', 'Deputy General Manager']","['Airlines/Aviation', 'Computer Software', 'Airlines/Aviation', 'Computer Software']",https://www.g2.com/products/swit/reviews,project-management
+Ravetree,,4.2, Ravetree,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/ravetree/reviews,project-management
+awork,,4.3, awork,,,https://www.g2.com/products/awork/reviews,project-management
+Kytes,,4.4, Kytes,,"['Information Technology and Services', 'Automotive', 'Information Technology and Services', 'Automotive']",https://www.g2.com/products/kytes/reviews,project-management
+Breeze,,4.1, Breeze,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/breeze-llc-breeze/reviews,project-management
+GoodDay Work,,4.3, GoodDay Work,,"['Internet', 'Computer Software', 'Internet', 'Computer Software']",https://www.g2.com/products/goodday-work/reviews,project-management
+OneSuite,,4.8, OneSuite,,,https://www.g2.com/products/onesuite/reviews,project-management
+Nozbe,,4.6, Nozbe,,,https://www.g2.com/products/nozbe/reviews,project-management
+Moovila,,4.8, Moovila,"['Project Manager', 'Project Manager']","['Information Technology and Services', 'Computer & Network Security', 'Information Technology and Services', 'Computer & Network Security']",https://www.g2.com/products/moovila/reviews,project-management
+Astravue,,5.0, Astravue,,,https://www.g2.com/products/astravue/reviews,project-management
+Microsoft Project Server,,4.1, Microsoft,"['Project Manager', 'Project Manager']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/microsoft-project-server/reviews,project-management
+TimeHero,,4.5, TimeHero,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/timehero/reviews,project-management
+SpiraPlan,,4.6, Inflectra,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/spiraplan/reviews,project-management
+Projectworks,,4.5, Projectworks,"['Director', 'Project Manager', 'Director', 'Project Manager']","['Information Technology and Services', 'Consulting', 'Information Technology and Services', 'Consulting']",https://www.g2.com/products/projectworks/reviews,project-management
+Kantata Professional Services Automation (formerly Mavenlink+ Kimble),,4.2, Kantata (formerly Mavenlink + Kimble),"['Project Manager', 'Consultant', 'Project Manager', 'Consultant']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/kantata-professional-services-automation-formerly-mavenlink-kimble/reviews,project-management
+MeisterTask,,4.6, MeisterLabs,"['Owner', 'Owner']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/meistertask/reviews,project-management
+ITM Platform,,4.8, ITM Platform,,,https://www.g2.com/products/itm-platform/reviews,project-management
+Prism PPM (formerly WorkOtter),,4.8, Prism PPM (formerly WorkOtter),,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/prism-ppm-formerly-workotter/reviews,project-management
+Ahsuite,,4.8, Ahsuite Inc,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Consulting', 'Marketing and Advertising', 'Consulting']",https://www.g2.com/products/ahsuite/reviews,project-management
+Mysaasplace,,4.1, MySaaSPlace,,,https://www.g2.com/products/mysaasplace/reviews,project-management
+Acclaim Projects,,4.9, Wellspring Worldwide,,,https://www.g2.com/products/acclaim-projects/reviews,project-management
+Teamleader,,4.3, Teamleader,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/teamleader/reviews,project-management
+OpenProject,,3.8, OpenProject,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/openproject/reviews,project-management
+BQE CORE,,4.3," BQE Software, Inc.","['Office Manager', 'Architect', 'Office Manager', 'Architect']","['Architecture & Planning', 'Civil Engineering', 'Architecture & Planning', 'Civil Engineering']",https://www.g2.com/products/core-bqe-software-inc/reviews,project-management
+IBM Targetprocess,,4.3," Apptio, an IBM Company","['Software Developer', 'Software Developer']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/ibm-targetprocess/reviews,project-management
+OneDeck,,5.0, OneDeck Ltd,,"['Facilities Services', 'Facilities Services']",https://www.g2.com/products/onedeck/reviews,project-management
+Primetric,,4.9, Primetric,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/primetric/reviews,project-management
+OnePlan,,4.4, OnePlan Solutions,,,https://www.g2.com/products/oneplan-solutions-oneplan/reviews,project-management
+Taiga,,4.4, Taiga Agile,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/taiga-agile-llc-taiga/reviews,project-management
+Plane,,4.5," Plane Software, Inc.",,,https://www.g2.com/products/plane-so/reviews,project-management
+Zenkit,,4.7, Axonic Informationssysteme GmbH,,"['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/zenkit/reviews,project-management
+Favro,,4.3, Favro AB,"['Producer', 'Producer']","['Computer Games', 'Computer Software', 'Computer Games', 'Computer Software']",https://www.g2.com/products/favro/reviews,project-management
+TrackingTime PRO,,4.4, TrackingTime,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/trackingtime-pro/reviews,project-management
+SmartCore,,4.3, Ninthwave,,,https://www.g2.com/products/smartcore/reviews,project-management
+Orangescrum,,4.5, Andolasoft,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/orangescrum/reviews,project-management
+Synergy,,4.5, Total Synergy,,"['Civil Engineering', 'Architecture & Planning', 'Civil Engineering', 'Architecture & Planning']",https://www.g2.com/products/synergy-aec/reviews,project-management
+Allfred,,4.7, Allfred,"['Account Manager', 'Account Manager']","['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/allfred/reviews,project-management
+Swatle,,4.9, Swatle,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/swatle/reviews,project-management
+Progress Podio,,4.2, Progress Software,"['Owner', 'Project Manager', 'Owner', 'Project Manager']","['Real Estate', 'Information Technology and Services', 'Real Estate', 'Information Technology and Services']",https://www.g2.com/products/progress-podio/reviews,project-management
+COR,,4.4, COR,,"['Marketing and Advertising', 'Public Relations and Communications', 'Marketing and Advertising', 'Public Relations and Communications']",https://www.g2.com/products/cor/reviews,project-management
+ONES.com,,4.5, The Beautiful ONES Technology PTE. LTD.,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/ones-com/reviews,project-management
+Beesbusy,,4.6, Beesbusy,,,https://www.g2.com/products/beesbusy/reviews,project-management
+OneDesk,,4.2, OneDesk,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/onedesk-onedesk/reviews,project-management
+Fluid,,4.7, Fluid,,"['Information Technology and Services', 'Financial Services', 'Information Technology and Services', 'Financial Services']",https://www.g2.com/products/fluid-fluid/reviews,project-management
+Resource Management by Smartsheet,,4.0, Smartsheet,"['Project Manager', 'Project Manager']","['Design', 'Marketing and Advertising', 'Design', 'Marketing and Advertising']",https://www.g2.com/products/resource-management-by-smartsheet/reviews,project-management
+Redbooth,,4.4, Redbooth,,"['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/redbooth/reviews,project-management
+Bitrix24,,4.1, Bitrix24,"['Marketing Manager', 'Project Manager', 'Marketing Manager', 'Project Manager']","['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/bitrix24/reviews,project-management
+5:00 PM,,4.3, Disarea,,,https://www.g2.com/products/5-00-pm/reviews,project-management
+Flow,,4.3, Flow,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/flow-flow/reviews,project-management
+Stackby,,4.6, Relytree Inc.,"['CEO', 'CEO']","['Marketing and Advertising', 'Management Consulting', 'Marketing and Advertising', 'Management Consulting']",https://www.g2.com/products/stackby/reviews,project-management
+APQP/PPAP Manager,,4.4, Omnex Systems,,"['Automotive', 'Automotive']",https://www.g2.com/products/apqp-ppap-manager/reviews,project-management
+Demand Metric,,4.2, Demand Metric,,,https://www.g2.com/products/demand-metric/reviews,project-management
+Matilda Workspace,,4.7, Matilda Workspace,,,https://www.g2.com/products/matilda-workspace/reviews,project-management
+Synergist,,4.6, Synergist,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/synergist/reviews,project-management
+ftrack,,4.7, Backlight,,"['Animation', 'Animation']",https://www.g2.com/products/ftrack/reviews,project-management
+SAP PPM,,4.2, SAP,,,https://www.g2.com/products/sap-ppm/reviews,project-management
+FunctionFox,,4.3, FunctionFox,,"['Marketing and Advertising', 'Graphic Design', 'Marketing and Advertising', 'Graphic Design']",https://www.g2.com/products/functionfox/reviews,project-management
+Squish,,4.1, IMS,,,https://www.g2.com/products/squish/reviews,project-management
+PSOHUB.,,4.2, PSOHUB.,,"['Marketing and Advertising', 'Consulting', 'Marketing and Advertising', 'Consulting']",https://www.g2.com/products/psohub/reviews,project-management
+Nifty,,4.7," Nifty Technologies, Inc.","['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/nifty-technologies-inc-nifty/reviews,project-management
+ConceptDraw PROJECT,,4.3, CS Odessa,,,https://www.g2.com/products/conceptdraw-project/reviews,project-management
+YouTrack,,4.3, JetBrains,,"['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/youtrack/reviews,project-management
+Forecast,,4.2, Forecast,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/forecast-forecast/reviews,project-management
+Accelo,,4.4, Accelo,"['Project Manager', 'Owner', 'Project Manager', 'Owner']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/accelo/reviews,project-management
+Paymo,,4.6, Paymo,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/paymo/reviews,project-management
+Deltek WorkBook,,3.8, Deltek,,"['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/deltek-workbook/reviews,project-management
+Clarity,,3.7, Broadcom,,"['Information Technology and Services', 'Hospital & Health Care', 'Information Technology and Services', 'Hospital & Health Care']",https://www.g2.com/products/broadcom-clarity/reviews,project-management
+Planview PPM Pro,,3.8, Planview,,,https://www.g2.com/products/planview-ppm-pro/reviews,project-management
+Upland Eclipse PPM,,4.4, Upland Software,,,https://www.g2.com/products/upland-eclipse-ppm/reviews,project-management
+RationalPlan,,4.6, Stand By Soft,,,https://www.g2.com/products/rationalplan/reviews,project-management
+OmniPlan,,4.5, The Omni Group,,,https://www.g2.com/products/omniplan/reviews,project-management
+Planview ProjectPlace,,4.1, Planview,,,https://www.g2.com/products/planview-projectplace/reviews,project-management
+Azor,,4.5, Kempen Automatisering,,,https://www.g2.com/products/azor/reviews,project-management
+Oracle Project Resource Management Cloud,,3.5, Oracle,,,https://www.g2.com/products/oracle-project-resource-management-cloud/reviews,project-management
+Tability,,4.6, Tability,"['CEO', 'CEO']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/tability/reviews,project-management
+OpenText Project and Portfolio Management (PPM),,4.0, OpenText,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/opentext-project-and-portfolio-management-ppm/reviews,project-management
+Mission Control,,4.4, Aprika Business Solutions,"['Managing Director', 'Salesforce Consultant', 'Managing Director', 'Salesforce Consultant']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/mission-control/reviews,project-management
+Rukovoditel,,4.7, rukovoditel.net,,,https://www.g2.com/products/rukovoditel/reviews,project-management
+Monograph,,4.6, Monograph,,"['Architecture & Planning', 'Architecture & Planning']",https://www.g2.com/products/monograph/reviews,project-management
+WiseTeam,,4.4," UAB ""Integris""",,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/wiseteam/reviews,project-management
+Oracle EBS Projects,,3.7, Oracle,,,https://www.g2.com/products/oracle-ebs-projects/reviews,project-management
+Allegra,,4.7, Steinbeis Task Management Solutions,,,https://www.g2.com/products/allegra/reviews,project-management
+Eralis Project,,4.4, Eralis,,,https://www.g2.com/products/eralis-project/reviews,project-management
+Redmine,,4.0, Planio,"['Software Developer', 'Owner', 'Software Developer', 'Owner']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/redmine/reviews,project-management
+Project Central,,4.6, Project Central,,"['Computer Software', 'Computer Software']",https://www.g2.com/products/project-central/reviews,project-management
+Easynote,,4.6, Easynote,,,https://www.g2.com/products/easynote/reviews,project-management
+Assign It To Me,,4.1, Assignittome,,,https://www.g2.com/products/assign-it-to-me/reviews,project-management
+Oracle Project Management Cloud,,3.8, Oracle,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/oracle-oracle-project-management-cloud/reviews,project-management
+Bridge24,,4.2, Websystems,,,https://www.g2.com/products/bridge24/reviews,project-management
+Ganttic,,4.0, Ganttic,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/ganttic/reviews,project-management
+PlanHammer,,4.5, PlanHammer,,,https://www.g2.com/products/planhammer/reviews,project-management
+AceProject,,3.9, Websystems,,,https://www.g2.com/products/aceproject/reviews,project-management
+Portfolio Manage,,4.2, Tempo,"['Project Manager', 'Project Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/portfolio-manage/reviews,project-management
+Copper Project,,4.5, Element Software,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/copper-project/reviews,project-management
+ONE2TEAM,,4.4, ONE2TEAM,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/one2team/reviews,project-management
+Project Drive,,4.5, TGMT Systems,,,https://www.g2.com/products/project-drive/reviews,project-management
+Nutcache,,4.1, Nutcache,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/nutcache/reviews,project-management
+Project Portfolio Office (PPO),,4.6, Project Portfolio Office,,,https://www.g2.com/products/project-portfolio-office-ppo/reviews,project-management
+Outplanr,,4.3, Outplanr,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/outplanr/reviews,project-management
+Admation,,3.8, Simple.io,,"['Retail', 'Insurance', 'Retail', 'Insurance']",https://www.g2.com/products/admation/reviews,project-management
+Function Point,,3.8, Function Point Productivity Software,"['Project Manager', 'Account Manager', 'Project Manager', 'Account Manager']","['Marketing and Advertising', 'Graphic Design', 'Marketing and Advertising', 'Graphic Design']",https://www.g2.com/products/function-point/reviews,project-management
+Fruux,,4.2, Fruux,,,https://www.g2.com/products/fruux/reviews,project-management
+Intervals,,3.9, Pelago,"['Project Manager', 'Project Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/intervals/reviews,project-management
+Flowzone,,4.2, Flowzone,,,https://www.g2.com/products/flowzone/reviews,project-management
+Nuvro,,4.4, Nuvro,,,https://www.g2.com/products/nuvro/reviews,project-management
+Open Science Framework,,4.3, Center for Open Science,,,https://www.g2.com/products/open-science-framework/reviews,project-management
+Toggl Plan,,4.2, Toggl,,,https://www.g2.com/products/toggl-plan/reviews,project-management
+Trigger,,4.5, NetEngine,,,https://www.g2.com/products/trigger/reviews,project-management
+Brightpod,,4.2, Synage,,,https://www.g2.com/products/brightpod/reviews,project-management
+UpWave,,4.2, UpWave,,,https://www.g2.com/products/upwave/reviews,project-management
+PROAD,,4.3, J+D Software,,,https://www.g2.com/products/proad/reviews,project-management
+VISUM,,4.0, Pinnacle Americas,"['Transportation Engineer', 'Transportation Engineer']","['Transportation/Trucking/Railroad', 'Civil Engineering', 'Transportation/Trucking/Railroad', 'Civil Engineering']",https://www.g2.com/products/visum/reviews,project-management
+Viewpath,,3.9, Viewpath,,,https://www.g2.com/products/viewpath/reviews,project-management
+Shotgun,,4.5, Autodesk,,,https://www.g2.com/products/shotgun/reviews,project-management
+Bubble Software,,4.6, Bubble Software,,,https://www.g2.com/products/bubble-software/reviews,project-management
+Preview App,,3.4, Fidesio,,,https://www.g2.com/products/preview-app/reviews,project-management
+Planiro,,4.3, Droid Labs,,,https://www.g2.com/products/planiro/reviews,project-management
+KeyOffice,,4.5, KeyTech,,,https://www.g2.com/products/keyoffice/reviews,project-management
+Shopify,,4.4, Shopify,"['Owner', 'CEO', 'Owner', 'CEO']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/shopify/reviews,e-commerce-platforms
+Shopify Plus,,4.4, Shopify,"['CEO', 'Owner', 'CEO', 'Owner']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/shopify-plus/reviews,e-commerce-platforms
+Salesforce Commerce for B2C,,4.3, Salesforce,"['Salesforce Developer', 'Software Developer', 'Salesforce Developer', 'Software Developer']","['Retail', 'Information Technology and Services', 'Retail', 'Information Technology and Services']",https://www.g2.com/products/salesforce-commerce-for-b2c/reviews,e-commerce-platforms
+Salesforce Commerce for B2B,,4.4, Salesforce,"['Business Development Representative', 'Salesforce Developer', 'Business Development Representative', 'Salesforce Developer']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/salesforce-commerce-for-b2b/reviews,e-commerce-platforms
+WooCommerce,,4.4, Automattic Inc.,"['Owner', 'CEO', 'Owner', 'CEO']","['Retail', 'Marketing and Advertising', 'Retail', 'Marketing and Advertising']",https://www.g2.com/products/woocommerce/reviews,e-commerce-platforms
+Wix Studio,,4.7, Wix,,"['Design', 'Marketing and Advertising', 'Design', 'Marketing and Advertising']",https://www.g2.com/products/wix-studio/reviews,e-commerce-platforms
+BigCommerce,,4.2, Commerce,"['Owner', 'CEO', 'Owner', 'CEO']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/bigcommerce/reviews,e-commerce-platforms
+Square Online (formerly Weebly),,4.2, Block,"['Owner', 'President', 'Owner', 'President']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/square-online-formerly-weebly/reviews,e-commerce-platforms
+SAP Commerce Cloud,,4.3, SAP,"['Consultant', 'Associate', 'Consultant', 'Associate']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/sap-commerce-cloud/reviews,e-commerce-platforms
+Dynamics 365 Commerce,,4.3, Microsoft,,"['Retail', 'Information Technology and Services', 'Retail', 'Information Technology and Services']",https://www.g2.com/products/dynamics-365-commerce/reviews,e-commerce-platforms
+Sage eCommerce,,4.3, Sage Software,,,https://www.g2.com/products/sage-ecommerce/reviews,e-commerce-platforms
+Oracle Commerce,,4.0, Oracle,,"['Retail', 'Computer Software', 'Retail', 'Computer Software']",https://www.g2.com/products/oracle-commerce/reviews,e-commerce-platforms
+ikas,,4.4, ikas Tech GmbH,"['Founder', 'Founder']","['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/ikas/reviews,e-commerce-platforms
+Sellfy,,4.0, Sellfy,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/sellfy/reviews,e-commerce-platforms
+commercetools,,4.6, commercetools,,,https://www.g2.com/products/commercetools/reviews,e-commerce-platforms
+SCAYLE Commerce Engine,,4.8, Scayle,,"['Retail', 'Retail']",https://www.g2.com/products/scayle-commerce-engine/reviews,e-commerce-platforms
+VTEX Commerce Platform,,4.5, VTEX,,"['Marketing and Advertising', 'Retail', 'Marketing and Advertising', 'Retail']",https://www.g2.com/products/vtex-commerce-platform/reviews,e-commerce-platforms
+Oracle Commerce Cloud,,4.4, Oracle,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/oracle-commerce-cloud/reviews,e-commerce-platforms
+Zoey,,4.5, Zoey,,"['Wholesale', 'Retail', 'Wholesale', 'Retail']",https://www.g2.com/products/zoey/reviews,e-commerce-platforms
+Magento Open Source,,4.0, Adobe,"['Web Developer', 'Owner', 'Web Developer', 'Owner']","['Information Technology and Services', 'Retail', 'Information Technology and Services', 'Retail']",https://www.g2.com/products/magento-open-source/reviews,e-commerce-platforms
+Red Technology,,4.5, Red Technology,,"['Retail', 'Retail']",https://www.g2.com/products/red-technology/reviews,e-commerce-platforms
+Sana Commerce Cloud,,4.4, Sana Commerce,"['Software Engineer', 'Software Engineer']","['Computer Software', 'Wholesale', 'Computer Software', 'Wholesale']",https://www.g2.com/products/sana-commerce-cloud/reviews,e-commerce-platforms
+Optimizely Configured Commerce,,4.2, Optimizely,,,https://www.g2.com/products/optimizely-configured-commerce/reviews,e-commerce-platforms
+Turis,,4.8, Turis,"['CEO', 'CEO']","['Food & Beverages', 'Consumer Goods', 'Food & Beverages', 'Consumer Goods']",https://www.g2.com/products/turis/reviews,e-commerce-platforms
+SureCart,,4.7, SureCart,,"['Design', 'Marketing and Advertising', 'Design', 'Marketing and Advertising']",https://www.g2.com/products/surecart/reviews,e-commerce-platforms
+Elastic Suite,,4.7, Elastic Suite,,"['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/elastic-suite/reviews,e-commerce-platforms
+BetterCommerce,,4.8, BetterCommerce,,"['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/bettercommerce/reviews,e-commerce-platforms
+10Web,,4.6, TenWeb,"['CEO', 'Owner', 'CEO', 'Owner']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/10web/reviews,e-commerce-platforms
+Centra,,4.8, Centra,,"['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/centra/reviews,e-commerce-platforms
+ShopWired,,4.9, ShopWired,"['Director', 'Owner', 'Director', 'Owner']","['Retail', 'Arts and Crafts', 'Retail', 'Arts and Crafts']",https://www.g2.com/products/shopwired/reviews,e-commerce-platforms
+CommentSold,,4.7, CommentSold,"['Owner', 'Business Owner', 'Owner', 'Business Owner']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/commentsold/reviews,e-commerce-platforms
+HCL Commerce,,4.0, HCL Technologies,,"['Retail', 'Information Technology and Services', 'Retail', 'Information Technology and Services']",https://www.g2.com/products/hcl-commerce/reviews,e-commerce-platforms
+Take App,,4.7, Take App,,"['Food & Beverages', 'Food & Beverages']",https://www.g2.com/products/take-app-take-app/reviews,e-commerce-platforms
+Drupal Commerce,,4.1, Drupal,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/drupal-commerce/reviews,e-commerce-platforms
+RepSpark,,4.8, RepSpark,,"['Apparel & Fashion', 'Apparel & Fashion']",https://www.g2.com/products/repspark/reviews,e-commerce-platforms
+Nexternal eCommerce Platform,,4.6, TrueCommerce,,"['Wine and Spirits', 'Wine and Spirits']",https://www.g2.com/products/nexternal-ecommerce-platform/reviews,e-commerce-platforms
+Big Cartel,,4.2, Big Cartel,,,https://www.g2.com/products/big-cartel/reviews,e-commerce-platforms
+Foxy.io,,4.8, Foxy.io,,,https://www.g2.com/products/foxy-io/reviews,e-commerce-platforms
+PrestaShop,,4.3, PrestaShop Inc.,"['Web Developer', 'Web Developer']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/prestashop/reviews,e-commerce-platforms
+Billtrust eCommerce,,4.2, Billtrust,,,https://www.g2.com/products/billtrust-ecommerce/reviews,e-commerce-platforms
+Dukaan,,4.2, Dukaan,,"['Apparel & Fashion', 'Apparel & Fashion']",https://www.g2.com/products/dukaan-dukaan/reviews,e-commerce-platforms
+StoreHippo,,4.0, StoreHippo,,"['Apparel & Fashion', 'Information Technology and Services', 'Apparel & Fashion', 'Information Technology and Services']",https://www.g2.com/products/storehippo/reviews,e-commerce-platforms
+Intershop Commerce Platform,,4.4, Intershop Communications,,"['Information Technology and Services', 'Manufacturing', 'Information Technology and Services', 'Manufacturing']",https://www.g2.com/products/intershop-commerce-platform/reviews,e-commerce-platforms
+Jumpseller,,4.5, Widetail,,,https://www.g2.com/products/widetail-jumpseller/reviews,e-commerce-platforms
+Zepo,,4.5, Zepo,,,https://www.g2.com/products/zepo/reviews,e-commerce-platforms
+Kibo Commerce,,4.1, Kibo Software,,"['Retail', 'Information Technology and Services', 'Retail', 'Information Technology and Services']",https://www.g2.com/products/kibo-commerce/reviews,e-commerce-platforms
+Shopaccino,,4.7, I Solution Microsystems,,"['Apparel & Fashion', 'Apparel & Fashion']",https://www.g2.com/products/shopaccino/reviews,e-commerce-platforms
+Optimizely Commerce Connect,,4.2, Optimizely,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/optimizely-commerce-connect/reviews,e-commerce-platforms
+Twice Commerce,,4.4, Twice Commerce,"['Owner', 'Owner']","['Events Services', 'Apparel & Fashion', 'Events Services', 'Apparel & Fashion']",https://www.g2.com/products/twice-commerce/reviews,e-commerce-platforms
+Pimcore,,4.5, pimcore,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/pimcore/reviews,e-commerce-platforms
+Virto's Commerce Innovation Platform,,4.7, Virto Commerce,,,https://www.g2.com/products/virto-s-commerce-innovation-platform/reviews,e-commerce-platforms
+Slatwall Commerce,,4.5, Ultra Commerce,,"['Internet', 'Internet']",https://www.g2.com/products/slatwall-commerce/reviews,e-commerce-platforms
+Elastic Path,,4.2, Elastic Path,,"['Telecommunications', 'Telecommunications']",https://www.g2.com/products/elastic-path/reviews,e-commerce-platforms
+CommerceV3,,4.4, CommerceV3,,,https://www.g2.com/products/commercev3/reviews,e-commerce-platforms
+Pepperi,,4.4, Advantive,,"['Apparel & Fashion', 'Consumer Goods', 'Apparel & Fashion', 'Consumer Goods']",https://www.g2.com/products/pepperi/reviews,e-commerce-platforms
+Liferay Commerce,,4.5, Liferay,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/liferay-commerce/reviews,e-commerce-platforms
+Ashop,,4.0, Ashop,,,https://www.g2.com/products/ashop/reviews,e-commerce-platforms
+commercebuild,,4.6, commercebuild,,"['Wholesale', 'Wholesale']",https://www.g2.com/products/commercebuild/reviews,e-commerce-platforms
+Inveon,,4.5, Inveon,,"['Retail', 'Retail']",https://www.g2.com/products/inveon/reviews,e-commerce-platforms
+HubSpot Marketing Hub,,4.4, HubSpot,"['Marketing Manager', 'Marketing Coordinator', 'Marketing Manager', 'Marketing Coordinator']","['Computer Software', 'Marketing and Advertising', 'Computer Software', 'Marketing and Advertising']",https://www.g2.com/products/hubspot-marketing-hub/reviews,marketing-automation
+Insider One,,4.8, Insider One,"['Digital Marketing Specialist', 'Marketing Manager', 'Digital Marketing Specialist', 'Marketing Manager']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/insider-one/reviews,marketing-automation
+Braze,,4.5, Braze,"['CRM Manager', 'Marketing Manager', 'CRM Manager', 'Marketing Manager']","['Financial Services', 'Marketing and Advertising', 'Financial Services', 'Marketing and Advertising']",https://www.g2.com/products/braze/reviews,marketing-automation
+Omnisend,,4.6, Omnisend,"['Owner', 'CEO', 'Owner', 'CEO']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/omnisend/reviews,marketing-automation
+Dotdigital,,4.4, Dotdigital,"['Marketing Manager', 'Marketing Executive', 'Marketing Manager', 'Marketing Executive']","['Retail', 'Marketing and Advertising', 'Retail', 'Marketing and Advertising']",https://www.g2.com/products/dotdigital/reviews,marketing-automation
+Intuit Mailchimp All-in-One Marketing Platform,,4.4, Intuit Mailchimp,"['Owner', 'Marketing Manager', 'Owner', 'Marketing Manager']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews,marketing-automation
+Customer.io,,4.4, Customer.io,"['CEO', 'Product Manager', 'CEO', 'Product Manager']","['Computer Software', 'Financial Services', 'Computer Software', 'Financial Services']",https://www.g2.com/products/customer-io/reviews,marketing-automation
+Attentive,,4.5, Attentive,"['Marketing Manager', 'Marketing Director', 'Marketing Manager', 'Marketing Director']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/attentive/reviews,marketing-automation
+EngageBay All-in-One Suite,,4.6, EngageBay Inc,"['Marketing Manager', 'CEO', 'Marketing Manager', 'CEO']","['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/engagebay-all-in-one-suite/reviews,marketing-automation
+Evam,,4.8, EVAM,,"['Banking', 'Telecommunications', 'Banking', 'Telecommunications']",https://www.g2.com/products/evam/reviews,marketing-automation
+ContactPigeon,,4.9, ContactPigeon,"['Marketing Manager', 'Marketing Director', 'Marketing Manager', 'Marketing Director']","['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/contactpigeon/reviews,marketing-automation
+Bloomreach,,4.6, Bloomreach,"['CRM Manager', 'Data Analyst', 'CRM Manager', 'Data Analyst']","['Retail', 'Marketing and Advertising', 'Retail', 'Marketing and Advertising']",https://www.g2.com/products/bloomreach-bloomreach/reviews,marketing-automation
+WebEngage,,4.5, WebEngage,"['Product Manager', 'Marketing Manager', 'Product Manager', 'Marketing Manager']","['Financial Services', 'Education Management', 'Financial Services', 'Education Management']",https://www.g2.com/products/webengage/reviews,marketing-automation
+CleverTap,,4.6, CleverTap,"['Product Manager', 'Marketing Manager', 'Product Manager', 'Marketing Manager']","['Financial Services', 'Information Technology and Services', 'Financial Services', 'Information Technology and Services']",https://www.g2.com/products/clevertap/reviews,marketing-automation
+MoEngage,,4.5, MoEngage,"['Product Manager', 'Digital Marketing Manager', 'Product Manager', 'Digital Marketing Manager']","['Financial Services', 'Online Media', 'Financial Services', 'Online Media']",https://www.g2.com/products/moengage/reviews,marketing-automation
+Appier AIQUA,,4.6, Appier,,"['Retail', 'Retail']",https://www.g2.com/products/appier-aiqua/reviews,marketing-automation
+Birdeye,,4.7, Birdeye,"['Owner', 'Marketing Manager', 'Owner', 'Marketing Manager']","['Hospital & Health Care', 'Real Estate', 'Hospital & Health Care', 'Real Estate']",https://www.g2.com/products/birdeye/reviews,marketing-automation
+Voyado,,4.5, Voyado,,"['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/voyado/reviews,marketing-automation
+Brevo Customer Data Platform,,4.6, Brevo,,"['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/brevo-customer-data-platform/reviews,marketing-automation
+Marketing Star,,4.7, Resulticks,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/marketing-star/reviews,marketing-automation
+ProFundCom,,4.9, ProFundCom,,"['Financial Services', 'Investment Management', 'Financial Services', 'Investment Management']",https://www.g2.com/products/profundcom/reviews,marketing-automation
+Nvecta,,4.8, Nvecta,"['Search Engine Optimization Executive', 'Search Engine Optimization Specialist', 'Search Engine Optimization Executive', 'Search Engine Optimization Specialist']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/nvecta/reviews,marketing-automation
+Pushwoosh,,4.4, Pushwoosh,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/pushwoosh/reviews,marketing-automation
+Listrak,,4.5, Listrak,"['Marketing Manager', 'Digital Marketing Manager', 'Marketing Manager', 'Digital Marketing Manager']","['Retail', 'Consumer Goods', 'Retail', 'Consumer Goods']",https://www.g2.com/products/listrak/reviews,marketing-automation
+Optimove,,4.6, Optimove,"['CRM Manager', 'CRM Specialist', 'CRM Manager', 'CRM Specialist']","['Gambling & Casinos', 'Marketing and Advertising', 'Gambling & Casinos', 'Marketing and Advertising']",https://www.g2.com/products/optimove/reviews,marketing-automation
+GetResponse MAX,,4.2, GetResponse,"['Founder', 'CEO', 'Founder', 'CEO']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/getresponse-max/reviews,marketing-automation
+Convertedin,,4.9, Convertedin,,,https://www.g2.com/products/convertedin/reviews,marketing-automation
+SAP Engagement Cloud (formerly SAP Emarsys),,4.3, SAP,"['CRM Manager', 'Digital Marketing Manager', 'CRM Manager', 'Digital Marketing Manager']","['Retail', 'Apparel & Fashion', 'Retail', 'Apparel & Fashion']",https://www.g2.com/products/sap-engagement-cloud-formerly-sap-emarsys/reviews,marketing-automation
+SuperAGI,,4.6, SuperAGI,"['Founder', 'Founder']","['Apparel & Fashion', 'Consumer Goods', 'Apparel & Fashion', 'Consumer Goods']",https://www.g2.com/products/superagi/reviews,marketing-automation
+SALESmanago,,4.4, SALESmanago,"['Marketing Automation Specialist', 'Marketing Manager', 'Marketing Automation Specialist', 'Marketing Manager']","['Marketing and Advertising', 'Retail', 'Marketing and Advertising', 'Retail']",https://www.g2.com/products/salesmanago/reviews,marketing-automation
+Leadfwd,,4.4, LeadFWD ,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/inbox25-leadfwd/reviews,marketing-automation
+OneSignal,,4.7, OneSignal,"['Software Engineer', 'CEO', 'Software Engineer', 'CEO']","['Computer Software', 'Information Technology and Services', 'Computer Software', 'Information Technology and Services']",https://www.g2.com/products/onesignal/reviews,marketing-automation
+HCL Unica,,4.2, HCL Technologies,,"['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/hcl-unica/reviews,marketing-automation
+eTrigue,,4.3, eTrigue,,"['Information Technology and Services', 'Computer Software', 'Information Technology and Services', 'Computer Software']",https://www.g2.com/products/etrigue/reviews,marketing-automation
+Dashly,,4.7, Dashly,"['CEO', 'CEO']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/dashly/reviews,marketing-automation
+Maestra,,4.8, Maestra,,"['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/maestraplatform/reviews,marketing-automation
+Spotler Mail+,,4.4, Spotler Group,"['Marketing Manager', 'Director', 'Marketing Manager', 'Director']","['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/spotler-mail/reviews,marketing-automation
+D·engage,,4.5, D·engage,,"['Apparel & Fashion', 'Retail', 'Apparel & Fashion', 'Retail']",https://www.g2.com/products/d-engage/reviews,marketing-automation
+Vero Cloud,,4.4, Vero,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/getvero/reviews,marketing-automation
+Vendasta AI Platform,,4.5, Vendasta,"['Owner', 'CEO', 'Owner', 'CEO']","['Marketing and Advertising', 'Management Consulting', 'Marketing and Advertising', 'Management Consulting']",https://www.g2.com/products/vendasta-ai-platform/reviews,marketing-automation
+MobileAction,,4.4, MobileAction,,"['Marketing and Advertising', 'Computer Games', 'Marketing and Advertising', 'Computer Games']",https://www.g2.com/products/mobileaction/reviews,marketing-automation
+Drip,,4.4, Drip,"['Owner', 'Founder', 'Owner', 'Founder']","['Marketing and Advertising', 'Health, Wellness and Fitness', 'Marketing and Advertising', 'Health, Wellness and Fitness']",https://www.g2.com/products/drip/reviews,marketing-automation
+SalezShark,,4.4, SalezShark,,"['Information Technology and Services', 'Information Technology and Services']",https://www.g2.com/products/salezshark/reviews,marketing-automation
+Odoo Marketing Automation,,4.5, Odoo,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/odoo-marketing-automation/reviews,marketing-automation
+Pingback: Marketing for builders,,4.9, Pingback,,,https://www.g2.com/products/pingback-marketing-for-builders/reviews,marketing-automation
+Sales Snap,,4.9, New Look Entertainment,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/sales-snap/reviews,marketing-automation
+ExpertSender,,4.6, ExpertSender,"['Owner', 'Owner']","['Marketing and Advertising', 'Retail', 'Marketing and Advertising', 'Retail']",https://www.g2.com/products/expertsender/reviews,marketing-automation
+Sendlane,,4.7, Sendlane,,"['Marketing and Advertising', 'Health, Wellness and Fitness', 'Marketing and Advertising', 'Health, Wellness and Fitness']",https://www.g2.com/products/sendlane/reviews,marketing-automation
+Solitics,,4.6, Solitics,,"['Financial Services', 'Gambling & Casinos', 'Financial Services', 'Gambling & Casinos']",https://www.g2.com/products/solitics/reviews,marketing-automation
+Deployteq,,4.4, Deployteq,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/deployteq/reviews,marketing-automation
+Sailthru by Marigold,,4.2, Marigold,"['Marketing Manager', 'Marketing Manager']","['Publishing', 'Retail', 'Publishing', 'Retail']",https://www.g2.com/products/sailthru-by-marigold/reviews,marketing-automation
+BuyerGenomics,,4.9, BuyerGenomics,,,https://www.g2.com/products/buyergenomics/reviews,marketing-automation
+Ortto,,4.4, Ortto,"['Marketing Manager', 'CEO', 'Marketing Manager', 'CEO']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/ortto/reviews,marketing-automation
+Genoo,,4.3," Genoo, LLC",,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/genoo/reviews,marketing-automation
+Blueshift,,4.4, Blueshift Labs,"['Email Marketing Manager', 'Email Marketing Specialist', 'Email Marketing Manager', 'Email Marketing Specialist']","['Financial Services', 'Marketing and Advertising', 'Financial Services', 'Marketing and Advertising']",https://www.g2.com/products/blueshift/reviews,marketing-automation
+Copernica,,4.9, Copernica,,,https://www.g2.com/products/copernica/reviews,marketing-automation
+Act-On,,4.1, Act-On Software,"['Marketing Manager', 'Marketing Specialist', 'Marketing Manager', 'Marketing Specialist']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/act-on/reviews,marketing-automation
+Synerise,,4.5, Synerise,,,https://www.g2.com/products/synerise/reviews,marketing-automation
+Right On Interactive,,4.5, Right On Interactive,,"['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/right-on-interactive/reviews,marketing-automation
+emfluence Marketing Platform,,4.3, emfluence,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/emfluence-marketing-platform/reviews,marketing-automation
+Gamooga,,4.5, Gamooga,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/gamooga/reviews,marketing-automation
+Dynamics 365 Marketing,,4.3, Microsoft,,"['Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising']",https://www.g2.com/products/dynamics-365-marketing/reviews,marketing-automation
+Infinito,,4.4," ValueFirst, a Tanla company",,,https://www.g2.com/products/valuefirst-a-twilio-company-infinito/reviews,marketing-automation
+RD Station Marketing,,4.7, RD Station,"['Analista de Marketing', 'Analista de marketing', 'Analista de Marketing', 'Analista de marketing']","['Computer Software', 'Marketing and Advertising', 'Computer Software', 'Marketing and Advertising']",https://www.g2.com/products/rd-station-marketing/reviews,marketing-automation
+Dialog Insight,,4.6, Dialog Insight,,"['Non-Profit Organization Management', 'Non-Profit Organization Management']",https://www.g2.com/products/dialog-insight/reviews,marketing-automation
+Oracle Responsys,,4.0, Oracle,"['Email Marketing Manager', 'Email Marketing Manager']","['Marketing and Advertising', 'Retail', 'Marketing and Advertising', 'Retail']",https://www.g2.com/products/oracle-responsys/reviews,marketing-automation
+eMarketeer,,4.4, Emarketeer,,,https://www.g2.com/products/emarketeer/reviews,marketing-automation
+Maropost Marketing Cloud,,4.4," Maropost, Inc","['CEO', 'Owner', 'CEO', 'Owner']","['Marketing and Advertising', 'Health, Wellness and Fitness', 'Marketing and Advertising', 'Health, Wellness and Fitness']",https://www.g2.com/products/maropost-marketing-cloud/reviews,marketing-automation
+Plumb5,,4.0, Decisive Analytical Solutions,,"['Real Estate', 'Real Estate']",https://www.g2.com/products/plumb5/reviews,marketing-automation
+Upsales Sales and Marketing Platform,,4.5, Upsales,"['Account Manager', 'CEO', 'Account Manager', 'CEO']","['Marketing and Advertising', 'Computer Software', 'Marketing and Advertising', 'Computer Software']",https://www.g2.com/products/upsales-sales-and-marketing-platform/reviews,marketing-automation
+Agillic,,4.3, Agillic,,,https://www.g2.com/products/agillic/reviews,marketing-automation
+CloudOne,,4.4, CloudOne,,,https://www.g2.com/products/cloudone/reviews,marketing-automation
+ActiveTrail,,4.4, ActiveTrail,,"['Marketing and Advertising', 'Marketing and Advertising']",https://www.g2.com/products/activetrail/reviews,marketing-automation
+Mapp Marketing Cloud,,3.9, Mapp Digital,,"['Marketing and Advertising', 'Information Technology and Services', 'Marketing and Advertising', 'Information Technology and Services']",https://www.g2.com/products/mapp-marketing-cloud/reviews,marketing-automation
+La Growth Machine,,4.6, LaGrowthMachine,,"['Computer Software', 'Marketing and Advertising', 'Computer Software', 'Marketing and Advertising']",https://www.g2.com/products/la-growth-machine/reviews,marketing-automation

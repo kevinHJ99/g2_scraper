@@ -4840,5 +4840,1156 @@
         ],
         "link": "https://www.g2.com/products/inveon/reviews",
         "category": "e-commerce-platforms"
+    },
+    {
+        "name": "HubSpot Marketing Hub",
+        "ratings": 4.4,
+        "seller": " HubSpot",
+        "users": [
+            "Marketing Manager",
+            "Marketing Coordinator",
+            "Marketing Manager",
+            "Marketing Coordinator"
+        ],
+        "industries": [
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/hubspot-marketing-hub/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Insider One",
+        "ratings": 4.8,
+        "seller": " Insider One",
+        "users": [
+            "Digital Marketing Specialist",
+            "Marketing Manager",
+            "Digital Marketing Specialist",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Retail",
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion"
+        ],
+        "link": "https://www.g2.com/products/insider-one/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Braze",
+        "ratings": 4.5,
+        "seller": " Braze",
+        "users": [
+            "CRM Manager",
+            "Marketing Manager",
+            "CRM Manager",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Financial Services",
+            "Marketing and Advertising",
+            "Financial Services",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/braze/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Omnisend",
+        "ratings": 4.6,
+        "seller": " Omnisend",
+        "users": [
+            "Owner",
+            "CEO",
+            "Owner",
+            "CEO"
+        ],
+        "industries": [
+            "Retail",
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion"
+        ],
+        "link": "https://www.g2.com/products/omnisend/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Dotdigital",
+        "ratings": 4.4,
+        "seller": " Dotdigital",
+        "users": [
+            "Marketing Manager",
+            "Marketing Executive",
+            "Marketing Manager",
+            "Marketing Executive"
+        ],
+        "industries": [
+            "Retail",
+            "Marketing and Advertising",
+            "Retail",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/dotdigital/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Intuit Mailchimp All-in-One Marketing Platform",
+        "ratings": 4.4,
+        "seller": " Intuit Mailchimp",
+        "users": [
+            "Owner",
+            "Marketing Manager",
+            "Owner",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/intuit-mailchimp-all-in-one-marketing-platform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Customer.io",
+        "ratings": 4.4,
+        "seller": " Customer.io",
+        "users": [
+            "CEO",
+            "Product Manager",
+            "CEO",
+            "Product Manager"
+        ],
+        "industries": [
+            "Computer Software",
+            "Financial Services",
+            "Computer Software",
+            "Financial Services"
+        ],
+        "link": "https://www.g2.com/products/customer-io/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Attentive",
+        "ratings": 4.5,
+        "seller": " Attentive",
+        "users": [
+            "Marketing Manager",
+            "Marketing Director",
+            "Marketing Manager",
+            "Marketing Director"
+        ],
+        "industries": [
+            "Retail",
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion"
+        ],
+        "link": "https://www.g2.com/products/attentive/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "EngageBay All-in-One Suite",
+        "ratings": 4.6,
+        "seller": " EngageBay Inc",
+        "users": [
+            "Marketing Manager",
+            "CEO",
+            "Marketing Manager",
+            "CEO"
+        ],
+        "industries": [
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/engagebay-all-in-one-suite/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Evam",
+        "ratings": 4.8,
+        "seller": " EVAM",
+        "users": null,
+        "industries": [
+            "Banking",
+            "Telecommunications",
+            "Banking",
+            "Telecommunications"
+        ],
+        "link": "https://www.g2.com/products/evam/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "ContactPigeon",
+        "ratings": 4.9,
+        "seller": " ContactPigeon",
+        "users": [
+            "Marketing Manager",
+            "Marketing Director",
+            "Marketing Manager",
+            "Marketing Director"
+        ],
+        "industries": [
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/contactpigeon/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Bloomreach",
+        "ratings": 4.6,
+        "seller": " Bloomreach",
+        "users": [
+            "CRM Manager",
+            "Data Analyst",
+            "CRM Manager",
+            "Data Analyst"
+        ],
+        "industries": [
+            "Retail",
+            "Marketing and Advertising",
+            "Retail",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/bloomreach-bloomreach/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "WebEngage",
+        "ratings": 4.5,
+        "seller": " WebEngage",
+        "users": [
+            "Product Manager",
+            "Marketing Manager",
+            "Product Manager",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Financial Services",
+            "Education Management",
+            "Financial Services",
+            "Education Management"
+        ],
+        "link": "https://www.g2.com/products/webengage/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "CleverTap",
+        "ratings": 4.6,
+        "seller": " CleverTap",
+        "users": [
+            "Product Manager",
+            "Marketing Manager",
+            "Product Manager",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Financial Services",
+            "Information Technology and Services",
+            "Financial Services",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/clevertap/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "MoEngage",
+        "ratings": 4.5,
+        "seller": " MoEngage",
+        "users": [
+            "Product Manager",
+            "Digital Marketing Manager",
+            "Product Manager",
+            "Digital Marketing Manager"
+        ],
+        "industries": [
+            "Financial Services",
+            "Online Media",
+            "Financial Services",
+            "Online Media"
+        ],
+        "link": "https://www.g2.com/products/moengage/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Appier AIQUA",
+        "ratings": 4.6,
+        "seller": " Appier",
+        "users": null,
+        "industries": [
+            "Retail",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/appier-aiqua/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Birdeye",
+        "ratings": 4.7,
+        "seller": " Birdeye",
+        "users": [
+            "Owner",
+            "Marketing Manager",
+            "Owner",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Hospital & Health Care",
+            "Real Estate",
+            "Hospital & Health Care",
+            "Real Estate"
+        ],
+        "link": "https://www.g2.com/products/birdeye/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Voyado",
+        "ratings": 4.5,
+        "seller": " Voyado",
+        "users": null,
+        "industries": [
+            "Retail",
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion"
+        ],
+        "link": "https://www.g2.com/products/voyado/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Brevo Customer Data Platform",
+        "ratings": 4.6,
+        "seller": " Brevo",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/brevo-customer-data-platform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Marketing Star",
+        "ratings": 4.7,
+        "seller": " Resulticks",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/marketing-star/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "ProFundCom",
+        "ratings": 4.9,
+        "seller": " ProFundCom",
+        "users": null,
+        "industries": [
+            "Financial Services",
+            "Investment Management",
+            "Financial Services",
+            "Investment Management"
+        ],
+        "link": "https://www.g2.com/products/profundcom/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Nvecta",
+        "ratings": 4.8,
+        "seller": " Nvecta",
+        "users": [
+            "Search Engine Optimization Executive",
+            "Search Engine Optimization Specialist",
+            "Search Engine Optimization Executive",
+            "Search Engine Optimization Specialist"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/nvecta/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Pushwoosh",
+        "ratings": 4.4,
+        "seller": " Pushwoosh",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Computer Software",
+            "Information Technology and Services",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/pushwoosh/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Listrak",
+        "ratings": 4.5,
+        "seller": " Listrak",
+        "users": [
+            "Marketing Manager",
+            "Digital Marketing Manager",
+            "Marketing Manager",
+            "Digital Marketing Manager"
+        ],
+        "industries": [
+            "Retail",
+            "Consumer Goods",
+            "Retail",
+            "Consumer Goods"
+        ],
+        "link": "https://www.g2.com/products/listrak/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Optimove",
+        "ratings": 4.6,
+        "seller": " Optimove",
+        "users": [
+            "CRM Manager",
+            "CRM Specialist",
+            "CRM Manager",
+            "CRM Specialist"
+        ],
+        "industries": [
+            "Gambling & Casinos",
+            "Marketing and Advertising",
+            "Gambling & Casinos",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/optimove/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "GetResponse MAX",
+        "ratings": 4.2,
+        "seller": " GetResponse",
+        "users": [
+            "Founder",
+            "CEO",
+            "Founder",
+            "CEO"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/getresponse-max/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Convertedin",
+        "ratings": 4.9,
+        "seller": " Convertedin",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/convertedin/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "SAP Engagement Cloud (formerly SAP Emarsys)",
+        "ratings": 4.3,
+        "seller": " SAP",
+        "users": [
+            "CRM Manager",
+            "Digital Marketing Manager",
+            "CRM Manager",
+            "Digital Marketing Manager"
+        ],
+        "industries": [
+            "Retail",
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion"
+        ],
+        "link": "https://www.g2.com/products/sap-engagement-cloud-formerly-sap-emarsys/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "SuperAGI",
+        "ratings": 4.6,
+        "seller": " SuperAGI",
+        "users": [
+            "Founder",
+            "Founder"
+        ],
+        "industries": [
+            "Apparel & Fashion",
+            "Consumer Goods",
+            "Apparel & Fashion",
+            "Consumer Goods"
+        ],
+        "link": "https://www.g2.com/products/superagi/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "SALESmanago",
+        "ratings": 4.4,
+        "seller": " SALESmanago",
+        "users": [
+            "Marketing Automation Specialist",
+            "Marketing Manager",
+            "Marketing Automation Specialist",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Retail",
+            "Marketing and Advertising",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/salesmanago/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Leadfwd",
+        "ratings": 4.4,
+        "seller": " LeadFWD ",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/inbox25-leadfwd/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "OneSignal",
+        "ratings": 4.7,
+        "seller": " OneSignal",
+        "users": [
+            "Software Engineer",
+            "CEO",
+            "Software Engineer",
+            "CEO"
+        ],
+        "industries": [
+            "Computer Software",
+            "Information Technology and Services",
+            "Computer Software",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/onesignal/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "HCL Unica",
+        "ratings": 4.2,
+        "seller": " HCL Technologies",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/hcl-unica/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "eTrigue",
+        "ratings": 4.3,
+        "seller": " eTrigue",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Computer Software",
+            "Information Technology and Services",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/etrigue/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Dashly",
+        "ratings": 4.7,
+        "seller": " Dashly",
+        "users": [
+            "CEO",
+            "CEO"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/dashly/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Maestra",
+        "ratings": 4.8,
+        "seller": " Maestra",
+        "users": null,
+        "industries": [
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/maestraplatform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Spotler Mail+",
+        "ratings": 4.4,
+        "seller": " Spotler Group",
+        "users": [
+            "Marketing Manager",
+            "Director",
+            "Marketing Manager",
+            "Director"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/spotler-mail/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "D·engage",
+        "ratings": 4.5,
+        "seller": " D·engage",
+        "users": null,
+        "industries": [
+            "Apparel & Fashion",
+            "Retail",
+            "Apparel & Fashion",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/d-engage/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Vero Cloud",
+        "ratings": 4.4,
+        "seller": " Vero",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/getvero/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Vendasta AI Platform",
+        "ratings": 4.5,
+        "seller": " Vendasta",
+        "users": [
+            "Owner",
+            "CEO",
+            "Owner",
+            "CEO"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Management Consulting",
+            "Marketing and Advertising",
+            "Management Consulting"
+        ],
+        "link": "https://www.g2.com/products/vendasta-ai-platform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "MobileAction",
+        "ratings": 4.4,
+        "seller": " MobileAction",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Games",
+            "Marketing and Advertising",
+            "Computer Games"
+        ],
+        "link": "https://www.g2.com/products/mobileaction/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Drip",
+        "ratings": 4.4,
+        "seller": " Drip",
+        "users": [
+            "Owner",
+            "Founder",
+            "Owner",
+            "Founder"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness",
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness"
+        ],
+        "link": "https://www.g2.com/products/drip/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "SalezShark",
+        "ratings": 4.4,
+        "seller": " SalezShark",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/salezshark/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Odoo Marketing Automation",
+        "ratings": 4.5,
+        "seller": " Odoo",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/odoo-marketing-automation/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Pingback: Marketing for builders",
+        "ratings": 4.9,
+        "seller": " Pingback",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/pingback-marketing-for-builders/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Sales Snap",
+        "ratings": 4.9,
+        "seller": " New Look Entertainment",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/sales-snap/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "ExpertSender",
+        "ratings": 4.6,
+        "seller": " ExpertSender",
+        "users": [
+            "Owner",
+            "Owner"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Retail",
+            "Marketing and Advertising",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/expertsender/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Sendlane",
+        "ratings": 4.7,
+        "seller": " Sendlane",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness",
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness"
+        ],
+        "link": "https://www.g2.com/products/sendlane/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Solitics",
+        "ratings": 4.6,
+        "seller": " Solitics",
+        "users": null,
+        "industries": [
+            "Financial Services",
+            "Gambling & Casinos",
+            "Financial Services",
+            "Gambling & Casinos"
+        ],
+        "link": "https://www.g2.com/products/solitics/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Deployteq",
+        "ratings": 4.4,
+        "seller": " Deployteq",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/deployteq/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Sailthru by Marigold",
+        "ratings": 4.2,
+        "seller": " Marigold",
+        "users": [
+            "Marketing Manager",
+            "Marketing Manager"
+        ],
+        "industries": [
+            "Publishing",
+            "Retail",
+            "Publishing",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/sailthru-by-marigold/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "BuyerGenomics",
+        "ratings": 4.9,
+        "seller": " BuyerGenomics",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/buyergenomics/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Ortto",
+        "ratings": 4.4,
+        "seller": " Ortto",
+        "users": [
+            "Marketing Manager",
+            "CEO",
+            "Marketing Manager",
+            "CEO"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/ortto/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Genoo",
+        "ratings": 4.3,
+        "seller": " Genoo, LLC",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/genoo/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Blueshift",
+        "ratings": 4.4,
+        "seller": " Blueshift Labs",
+        "users": [
+            "Email Marketing Manager",
+            "Email Marketing Specialist",
+            "Email Marketing Manager",
+            "Email Marketing Specialist"
+        ],
+        "industries": [
+            "Financial Services",
+            "Marketing and Advertising",
+            "Financial Services",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/blueshift/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Copernica",
+        "ratings": 4.9,
+        "seller": " Copernica",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/copernica/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Act-On",
+        "ratings": 4.1,
+        "seller": " Act-On Software",
+        "users": [
+            "Marketing Manager",
+            "Marketing Specialist",
+            "Marketing Manager",
+            "Marketing Specialist"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/act-on/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Synerise",
+        "ratings": 4.5,
+        "seller": " Synerise",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/synerise/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Right On Interactive",
+        "ratings": 4.5,
+        "seller": " Right On Interactive",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/right-on-interactive/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "emfluence Marketing Platform",
+        "ratings": 4.3,
+        "seller": " emfluence",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/emfluence-marketing-platform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Gamooga",
+        "ratings": 4.5,
+        "seller": " Gamooga",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/gamooga/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Dynamics 365 Marketing",
+        "ratings": 4.3,
+        "seller": " Microsoft",
+        "users": null,
+        "industries": [
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/dynamics-365-marketing/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Infinito",
+        "ratings": 4.4,
+        "seller": " ValueFirst, a Tanla company",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/valuefirst-a-twilio-company-infinito/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "RD Station Marketing",
+        "ratings": 4.7,
+        "seller": " RD Station",
+        "users": [
+            "Analista de Marketing",
+            "Analista de marketing",
+            "Analista de Marketing",
+            "Analista de marketing"
+        ],
+        "industries": [
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/rd-station-marketing/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Dialog Insight",
+        "ratings": 4.6,
+        "seller": " Dialog Insight",
+        "users": null,
+        "industries": [
+            "Non-Profit Organization Management",
+            "Non-Profit Organization Management"
+        ],
+        "link": "https://www.g2.com/products/dialog-insight/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Oracle Responsys",
+        "ratings": 4.0,
+        "seller": " Oracle",
+        "users": [
+            "Email Marketing Manager",
+            "Email Marketing Manager"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Retail",
+            "Marketing and Advertising",
+            "Retail"
+        ],
+        "link": "https://www.g2.com/products/oracle-responsys/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "eMarketeer",
+        "ratings": 4.4,
+        "seller": " Emarketeer",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/emarketeer/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Maropost Marketing Cloud",
+        "ratings": 4.4,
+        "seller": " Maropost, Inc",
+        "users": [
+            "CEO",
+            "Owner",
+            "CEO",
+            "Owner"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness",
+            "Marketing and Advertising",
+            "Health, Wellness and Fitness"
+        ],
+        "link": "https://www.g2.com/products/maropost-marketing-cloud/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Plumb5",
+        "ratings": 4.0,
+        "seller": " Decisive Analytical Solutions",
+        "users": null,
+        "industries": [
+            "Real Estate",
+            "Real Estate"
+        ],
+        "link": "https://www.g2.com/products/plumb5/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Upsales Sales and Marketing Platform",
+        "ratings": 4.5,
+        "seller": " Upsales",
+        "users": [
+            "Account Manager",
+            "CEO",
+            "Account Manager",
+            "CEO"
+        ],
+        "industries": [
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software"
+        ],
+        "link": "https://www.g2.com/products/upsales-sales-and-marketing-platform/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Agillic",
+        "ratings": 4.3,
+        "seller": " Agillic",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/agillic/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "CloudOne",
+        "ratings": 4.4,
+        "seller": " CloudOne",
+        "users": null,
+        "industries": null,
+        "link": "https://www.g2.com/products/cloudone/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "ActiveTrail",
+        "ratings": 4.4,
+        "seller": " ActiveTrail",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/activetrail/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "Mapp Marketing Cloud",
+        "ratings": 3.9,
+        "seller": " Mapp Digital",
+        "users": null,
+        "industries": [
+            "Marketing and Advertising",
+            "Information Technology and Services",
+            "Marketing and Advertising",
+            "Information Technology and Services"
+        ],
+        "link": "https://www.g2.com/products/mapp-marketing-cloud/reviews",
+        "category": "marketing-automation"
+    },
+    {
+        "name": "La Growth Machine",
+        "ratings": 4.6,
+        "seller": " LaGrowthMachine",
+        "users": null,
+        "industries": [
+            "Computer Software",
+            "Marketing and Advertising",
+            "Computer Software",
+            "Marketing and Advertising"
+        ],
+        "link": "https://www.g2.com/products/la-growth-machine/reviews",
+        "category": "marketing-automation"
     }
 ]

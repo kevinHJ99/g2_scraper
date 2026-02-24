@@ -1,4 +1,4 @@
-Contexto
+Reporte
 
 -> Durante el desarrollo del motor de scraping para g2.com, se identificó que el sitio utiliza mecanismos avanzados de protección contra scraping y bots, incluyendo:
 
@@ -93,6 +93,11 @@ Arquitectura final
 - Selenium requiere de waits manuales para evitar errores de elementos no encontrados.
 - Playwright puede usar el Chrome DevTools Protocol (CDP), una conexión WebSocket bidireccional constante. Esto permite una comunicación casi instantánea y un control mucho más granular sobre el navegador (ideal para entornos externos en Docker).
 - Playwright es nativamente asincrono, lo que permite esperas automaticas sobre la carga los items antes de ejecutar una accion.
+
+===========================================
+
+-> Nota de extraccion:
+Algunos campos presentan valores nulos debido a que la información no está disponible en el DOM del listado, no por fallo del extractor.
 
 ===========================================
 Conclusión

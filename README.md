@@ -1,15 +1,36 @@
-G2 Scraper
+# G2 Scraper
 ===========
 
 Scraper de G2 con Playwright conectado a Chrome via CDP (Chrome DevTools Protocol).
 
-Requisitos
+## Requisitos
 -----------
 - Python 3.10+.
 - Google Chrome instalado (se usa CDP en el puerto 9222).
 - Windows/macOS/Linux.
 
-Clonar desde GitHub
+## Estructura
+├───G2_scraper
+    │   config.py
+    │   main.py
+    │   README.md
+    |   METRICS_REPORT.md
+    |   REPORT.md
+    |   requirements.txt
+    │
+    ├───source
+    │       browser.py
+    │       detector.py
+    │       extractor.py
+    │       metrics.py
+    │       navigator.py
+    │       retries.py
+    │	    run_chrome.py
+    │
+    ├───data
+    └───logs
+
+## Clonar desde GitHub
 -------------------
 1) Clona el repositorio:
 

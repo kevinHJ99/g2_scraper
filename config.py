@@ -5,6 +5,7 @@ DELAY_MIN = 10
 DELAY_MAX = 20
 TIMEOUT = 30000
 ENDPOINT_URL = "http://localhost:9222"
+RUTA_CHROME = r"SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
 
 CATEGORIES = {
     "crm": 5,

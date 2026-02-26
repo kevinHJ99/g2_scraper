@@ -1,4 +1,5 @@
 import subprocess
+import config
 import platform
 import logging
 import time
@@ -20,7 +21,7 @@ class ChromeManager:
             return path
 
         if system == "Windows":
-            path = r"SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
+            path = config.RUTA_CHROME
             for root in [winreg.HKEY_LOCAL_MACHINE, winreg.HKEY_CURRENT_USER]:
                 try:
                     with winreg.OpenKey(root, path) as key:

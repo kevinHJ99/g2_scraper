@@ -92,3 +92,4 @@ Notas
 -----
 - Si cambias el puerto CDP, actualiza `ENDPOINT_URL`.
 - Si Chrome no inicia, revisa la ruta del ejecutable en [src/run_chrome.py](src/run_chrome.py).
+- Corregida la ruta de chrome para la ejecucion, se uso la libreria shutil y winreg
